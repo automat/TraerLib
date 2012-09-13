@@ -13,6 +13,28 @@
 		AE8CE28E16021EFA005FC587 /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = AE8CE28C16021EFA005FC587 /* Credits.rtf */; };
 		AE8CE29116021EFA005FC587 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = AE8CE29016021EFA005FC587 /* AppDelegate.m */; };
 		AE8CE29416021EFA005FC587 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = AE8CE29216021EFA005FC587 /* MainMenu.xib */; };
+		AE8CE2E6160220CD005FC587 /* FIGLView.m in Sources */ = {isa = PBXBuildFile; fileRef = AE8CE2B5160220CD005FC587 /* FIGLView.m */; };
+		AE8CE2E7160220CD005FC587 /* FIOpenGLView.m in Sources */ = {isa = PBXBuildFile; fileRef = AE8CE2B8160220CD005FC587 /* FIOpenGLView.m */; };
+		AE8CE2E8160220CD005FC587 /* Edge.m in Sources */ = {isa = PBXBuildFile; fileRef = AE8CE2BB160220CD005FC587 /* Edge.m */; };
+		AE8CE2E9160220CD005FC587 /* Graph.m in Sources */ = {isa = PBXBuildFile; fileRef = AE8CE2BD160220CD005FC587 /* Graph.m */; };
+		AE8CE2EA160220CD005FC587 /* GraphMain.m in Sources */ = {isa = PBXBuildFile; fileRef = AE8CE2BF160220CD005FC587 /* GraphMain.m */; };
+		AE8CE2EB160220CD005FC587 /* Node.m in Sources */ = {isa = PBXBuildFile; fileRef = AE8CE2C1160220CD005FC587 /* Node.m */; };
+		AE8CE2EC160220CD005FC587 /* TestBouncyBalls.m in Sources */ = {isa = PBXBuildFile; fileRef = AE8CE2C4160220CD005FC587 /* TestBouncyBalls.m */; };
+		AE8CE2ED160220CD005FC587 /* TestObject.m in Sources */ = {isa = PBXBuildFile; fileRef = AE8CE2C6160220CD005FC587 /* TestObject.m */; };
+		AE8CE2EE160220CD005FC587 /* TestSimplePendulum.m in Sources */ = {isa = PBXBuildFile; fileRef = AE8CE2C8160220CD005FC587 /* TestSimplePendulum.m */; };
+		AE8CE2EF160220CD005FC587 /* TestTraerAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = AE8CE2CA160220CD005FC587 /* TestTraerAnimation.m */; };
+		AE8CE2F0160220CD005FC587 /* TAnimator.m in Sources */ = {isa = PBXBuildFile; fileRef = AE8CE2CD160220CD005FC587 /* TAnimator.m */; };
+		AE8CE2F1160220CD005FC587 /* TSmoother.m in Sources */ = {isa = PBXBuildFile; fileRef = AE8CE2CF160220CD005FC587 /* TSmoother.m */; };
+		AE8CE2F2160220CD005FC587 /* TSmoother2D.m in Sources */ = {isa = PBXBuildFile; fileRef = AE8CE2D1160220CD005FC587 /* TSmoother2D.m */; };
+		AE8CE2F3160220CD005FC587 /* TSmoother3D.m in Sources */ = {isa = PBXBuildFile; fileRef = AE8CE2D3160220CD005FC587 /* TSmoother3D.m */; };
+		AE8CE2F4160220CD005FC587 /* TAttraction.m in Sources */ = {isa = PBXBuildFile; fileRef = AE8CE2D7160220CD005FC587 /* TAttraction.m */; };
+		AE8CE2F5160220CD005FC587 /* TEulerIntegrator.m in Sources */ = {isa = PBXBuildFile; fileRef = AE8CE2D9160220CD005FC587 /* TEulerIntegrator.m */; };
+		AE8CE2F6160220CD005FC587 /* TModifiedEulerIntegrator.m in Sources */ = {isa = PBXBuildFile; fileRef = AE8CE2DD160220CD005FC587 /* TModifiedEulerIntegrator.m */; };
+		AE8CE2F7160220CD005FC587 /* TParticle.m in Sources */ = {isa = PBXBuildFile; fileRef = AE8CE2DF160220CD005FC587 /* TParticle.m */; };
+		AE8CE2F8160220CD005FC587 /* TParticleSystem.m in Sources */ = {isa = PBXBuildFile; fileRef = AE8CE2E1160220CD005FC587 /* TParticleSystem.m */; };
+		AE8CE2F9160220CD005FC587 /* TRungeKuttaIntegrator.m in Sources */ = {isa = PBXBuildFile; fileRef = AE8CE2E3160220CD005FC587 /* TRungeKuttaIntegrator.m */; };
+		AE8CE2FA160220CD005FC587 /* TSpring.m in Sources */ = {isa = PBXBuildFile; fileRef = AE8CE2E5160220CD005FC587 /* TSpring.m */; };
+		AE8CE2FC1602213F005FC587 /* OpenGL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AE8CE2FB1602213F005FC587 /* OpenGL.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +51,55 @@
 		AE8CE28F16021EFA005FC587 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		AE8CE29016021EFA005FC587 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		AE8CE29316021EFA005FC587 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		AE8CE2B3160220CD005FC587 /* FIGLUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FIGLUtils.h; sourceTree = "<group>"; };
+		AE8CE2B4160220CD005FC587 /* FIGLView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FIGLView.h; sourceTree = "<group>"; };
+		AE8CE2B5160220CD005FC587 /* FIGLView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FIGLView.m; sourceTree = "<group>"; };
+		AE8CE2B6160220CD005FC587 /* FIMath.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FIMath.h; sourceTree = "<group>"; };
+		AE8CE2B7160220CD005FC587 /* FIOpenGLView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FIOpenGLView.h; sourceTree = "<group>"; };
+		AE8CE2B8160220CD005FC587 /* FIOpenGLView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FIOpenGLView.m; sourceTree = "<group>"; };
+		AE8CE2BA160220CD005FC587 /* Edge.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Edge.h; sourceTree = "<group>"; };
+		AE8CE2BB160220CD005FC587 /* Edge.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Edge.m; sourceTree = "<group>"; };
+		AE8CE2BC160220CD005FC587 /* Graph.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Graph.h; sourceTree = "<group>"; };
+		AE8CE2BD160220CD005FC587 /* Graph.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Graph.m; sourceTree = "<group>"; };
+		AE8CE2BE160220CD005FC587 /* GraphMain.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GraphMain.h; sourceTree = "<group>"; };
+		AE8CE2BF160220CD005FC587 /* GraphMain.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GraphMain.m; sourceTree = "<group>"; };
+		AE8CE2C0160220CD005FC587 /* Node.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Node.h; sourceTree = "<group>"; };
+		AE8CE2C1160220CD005FC587 /* Node.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Node.m; sourceTree = "<group>"; };
+		AE8CE2C2160220CD005FC587 /* Testable.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Testable.h; sourceTree = "<group>"; };
+		AE8CE2C3160220CD005FC587 /* TestBouncyBalls.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestBouncyBalls.h; sourceTree = "<group>"; };
+		AE8CE2C4160220CD005FC587 /* TestBouncyBalls.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestBouncyBalls.m; sourceTree = "<group>"; };
+		AE8CE2C5160220CD005FC587 /* TestObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestObject.h; sourceTree = "<group>"; };
+		AE8CE2C6160220CD005FC587 /* TestObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestObject.m; sourceTree = "<group>"; };
+		AE8CE2C7160220CD005FC587 /* TestSimplePendulum.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestSimplePendulum.h; sourceTree = "<group>"; };
+		AE8CE2C8160220CD005FC587 /* TestSimplePendulum.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestSimplePendulum.m; sourceTree = "<group>"; };
+		AE8CE2C9160220CD005FC587 /* TestTraerAnimation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestTraerAnimation.h; sourceTree = "<group>"; };
+		AE8CE2CA160220CD005FC587 /* TestTraerAnimation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestTraerAnimation.m; sourceTree = "<group>"; };
+		AE8CE2CC160220CD005FC587 /* TAnimator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TAnimator.h; sourceTree = "<group>"; };
+		AE8CE2CD160220CD005FC587 /* TAnimator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TAnimator.m; sourceTree = "<group>"; };
+		AE8CE2CE160220CD005FC587 /* TSmoother.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TSmoother.h; sourceTree = "<group>"; };
+		AE8CE2CF160220CD005FC587 /* TSmoother.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TSmoother.m; sourceTree = "<group>"; };
+		AE8CE2D0160220CD005FC587 /* TSmoother2D.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TSmoother2D.h; sourceTree = "<group>"; };
+		AE8CE2D1160220CD005FC587 /* TSmoother2D.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TSmoother2D.m; sourceTree = "<group>"; };
+		AE8CE2D2160220CD005FC587 /* TSmoother3D.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TSmoother3D.h; sourceTree = "<group>"; };
+		AE8CE2D3160220CD005FC587 /* TSmoother3D.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TSmoother3D.m; sourceTree = "<group>"; };
+		AE8CE2D4160220CD005FC587 /* TTickable.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTickable.h; sourceTree = "<group>"; };
+		AE8CE2D6160220CD005FC587 /* TAttraction.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TAttraction.h; sourceTree = "<group>"; };
+		AE8CE2D7160220CD005FC587 /* TAttraction.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TAttraction.m; sourceTree = "<group>"; };
+		AE8CE2D8160220CD005FC587 /* TEulerIntegrator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TEulerIntegrator.h; sourceTree = "<group>"; };
+		AE8CE2D9160220CD005FC587 /* TEulerIntegrator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TEulerIntegrator.m; sourceTree = "<group>"; };
+		AE8CE2DA160220CD005FC587 /* TForce.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TForce.h; sourceTree = "<group>"; };
+		AE8CE2DB160220CD005FC587 /* TIntegrator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TIntegrator.h; sourceTree = "<group>"; };
+		AE8CE2DC160220CD005FC587 /* TModifiedEulerIntegrator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TModifiedEulerIntegrator.h; sourceTree = "<group>"; };
+		AE8CE2DD160220CD005FC587 /* TModifiedEulerIntegrator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TModifiedEulerIntegrator.m; sourceTree = "<group>"; };
+		AE8CE2DE160220CD005FC587 /* TParticle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TParticle.h; sourceTree = "<group>"; };
+		AE8CE2DF160220CD005FC587 /* TParticle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TParticle.m; sourceTree = "<group>"; };
+		AE8CE2E0160220CD005FC587 /* TParticleSystem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TParticleSystem.h; sourceTree = "<group>"; };
+		AE8CE2E1160220CD005FC587 /* TParticleSystem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TParticleSystem.m; sourceTree = "<group>"; };
+		AE8CE2E2160220CD005FC587 /* TRungeKuttaIntegrator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TRungeKuttaIntegrator.h; sourceTree = "<group>"; };
+		AE8CE2E3160220CD005FC587 /* TRungeKuttaIntegrator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TRungeKuttaIntegrator.m; sourceTree = "<group>"; };
+		AE8CE2E4160220CD005FC587 /* TSpring.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TSpring.h; sourceTree = "<group>"; };
+		AE8CE2E5160220CD005FC587 /* TSpring.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TSpring.m; sourceTree = "<group>"; };
+		AE8CE2FB1602213F005FC587 /* OpenGL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGL.framework; path = System/Library/Frameworks/OpenGL.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -36,6 +107,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AE8CE2FC1602213F005FC587 /* OpenGL.framework in Frameworks */,
 				AE8CE27E16021EFA005FC587 /* Cocoa.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -72,6 +144,7 @@
 		AE8CE27F16021EFA005FC587 /* Other Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				AE8CE2FB1602213F005FC587 /* OpenGL.framework */,
 				AE8CE28016021EFA005FC587 /* AppKit.framework */,
 				AE8CE28116021EFA005FC587 /* CoreData.framework */,
 				AE8CE28216021EFA005FC587 /* Foundation.framework */,
@@ -82,6 +155,7 @@
 		AE8CE28316021EFA005FC587 /* TraerLib */ = {
 			isa = PBXGroup;
 			children = (
+				AE8CE2B1160220CD005FC587 /* src */,
 				AE8CE28F16021EFA005FC587 /* AppDelegate.h */,
 				AE8CE29016021EFA005FC587 /* AppDelegate.m */,
 				AE8CE29216021EFA005FC587 /* MainMenu.xib */,
@@ -100,6 +174,93 @@
 				AE8CE28C16021EFA005FC587 /* Credits.rtf */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		AE8CE2B1160220CD005FC587 /* src */ = {
+			isa = PBXGroup;
+			children = (
+				AE8CE2B2160220CD005FC587 /* Fi */,
+				AE8CE2B9160220CD005FC587 /* Tests */,
+				AE8CE2CB160220CD005FC587 /* TraerAnimation */,
+				AE8CE2D5160220CD005FC587 /* TraerPhysics */,
+			);
+			path = src;
+			sourceTree = "<group>";
+		};
+		AE8CE2B2160220CD005FC587 /* Fi */ = {
+			isa = PBXGroup;
+			children = (
+				AE8CE2B3160220CD005FC587 /* FIGLUtils.h */,
+				AE8CE2B4160220CD005FC587 /* FIGLView.h */,
+				AE8CE2B5160220CD005FC587 /* FIGLView.m */,
+				AE8CE2B6160220CD005FC587 /* FIMath.h */,
+				AE8CE2B7160220CD005FC587 /* FIOpenGLView.h */,
+				AE8CE2B8160220CD005FC587 /* FIOpenGLView.m */,
+			);
+			path = Fi;
+			sourceTree = "<group>";
+		};
+		AE8CE2B9160220CD005FC587 /* Tests */ = {
+			isa = PBXGroup;
+			children = (
+				AE8CE2BA160220CD005FC587 /* Edge.h */,
+				AE8CE2BB160220CD005FC587 /* Edge.m */,
+				AE8CE2BC160220CD005FC587 /* Graph.h */,
+				AE8CE2BD160220CD005FC587 /* Graph.m */,
+				AE8CE2BE160220CD005FC587 /* GraphMain.h */,
+				AE8CE2BF160220CD005FC587 /* GraphMain.m */,
+				AE8CE2C0160220CD005FC587 /* Node.h */,
+				AE8CE2C1160220CD005FC587 /* Node.m */,
+				AE8CE2C2160220CD005FC587 /* Testable.h */,
+				AE8CE2C3160220CD005FC587 /* TestBouncyBalls.h */,
+				AE8CE2C4160220CD005FC587 /* TestBouncyBalls.m */,
+				AE8CE2C5160220CD005FC587 /* TestObject.h */,
+				AE8CE2C6160220CD005FC587 /* TestObject.m */,
+				AE8CE2C7160220CD005FC587 /* TestSimplePendulum.h */,
+				AE8CE2C8160220CD005FC587 /* TestSimplePendulum.m */,
+				AE8CE2C9160220CD005FC587 /* TestTraerAnimation.h */,
+				AE8CE2CA160220CD005FC587 /* TestTraerAnimation.m */,
+			);
+			path = Tests;
+			sourceTree = "<group>";
+		};
+		AE8CE2CB160220CD005FC587 /* TraerAnimation */ = {
+			isa = PBXGroup;
+			children = (
+				AE8CE2CC160220CD005FC587 /* TAnimator.h */,
+				AE8CE2CD160220CD005FC587 /* TAnimator.m */,
+				AE8CE2CE160220CD005FC587 /* TSmoother.h */,
+				AE8CE2CF160220CD005FC587 /* TSmoother.m */,
+				AE8CE2D0160220CD005FC587 /* TSmoother2D.h */,
+				AE8CE2D1160220CD005FC587 /* TSmoother2D.m */,
+				AE8CE2D2160220CD005FC587 /* TSmoother3D.h */,
+				AE8CE2D3160220CD005FC587 /* TSmoother3D.m */,
+				AE8CE2D4160220CD005FC587 /* TTickable.h */,
+			);
+			path = TraerAnimation;
+			sourceTree = "<group>";
+		};
+		AE8CE2D5160220CD005FC587 /* TraerPhysics */ = {
+			isa = PBXGroup;
+			children = (
+				AE8CE2D6160220CD005FC587 /* TAttraction.h */,
+				AE8CE2D7160220CD005FC587 /* TAttraction.m */,
+				AE8CE2D8160220CD005FC587 /* TEulerIntegrator.h */,
+				AE8CE2D9160220CD005FC587 /* TEulerIntegrator.m */,
+				AE8CE2DA160220CD005FC587 /* TForce.h */,
+				AE8CE2DB160220CD005FC587 /* TIntegrator.h */,
+				AE8CE2DC160220CD005FC587 /* TModifiedEulerIntegrator.h */,
+				AE8CE2DD160220CD005FC587 /* TModifiedEulerIntegrator.m */,
+				AE8CE2DE160220CD005FC587 /* TParticle.h */,
+				AE8CE2DF160220CD005FC587 /* TParticle.m */,
+				AE8CE2E0160220CD005FC587 /* TParticleSystem.h */,
+				AE8CE2E1160220CD005FC587 /* TParticleSystem.m */,
+				AE8CE2E2160220CD005FC587 /* TRungeKuttaIntegrator.h */,
+				AE8CE2E3160220CD005FC587 /* TRungeKuttaIntegrator.m */,
+				AE8CE2E4160220CD005FC587 /* TSpring.h */,
+				AE8CE2E5160220CD005FC587 /* TSpring.m */,
+			);
+			path = TraerPhysics;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -168,6 +329,27 @@
 			files = (
 				AE8CE28A16021EFA005FC587 /* main.m in Sources */,
 				AE8CE29116021EFA005FC587 /* AppDelegate.m in Sources */,
+				AE8CE2E6160220CD005FC587 /* FIGLView.m in Sources */,
+				AE8CE2E7160220CD005FC587 /* FIOpenGLView.m in Sources */,
+				AE8CE2E8160220CD005FC587 /* Edge.m in Sources */,
+				AE8CE2E9160220CD005FC587 /* Graph.m in Sources */,
+				AE8CE2EA160220CD005FC587 /* GraphMain.m in Sources */,
+				AE8CE2EB160220CD005FC587 /* Node.m in Sources */,
+				AE8CE2EC160220CD005FC587 /* TestBouncyBalls.m in Sources */,
+				AE8CE2ED160220CD005FC587 /* TestObject.m in Sources */,
+				AE8CE2EE160220CD005FC587 /* TestSimplePendulum.m in Sources */,
+				AE8CE2EF160220CD005FC587 /* TestTraerAnimation.m in Sources */,
+				AE8CE2F0160220CD005FC587 /* TAnimator.m in Sources */,
+				AE8CE2F1160220CD005FC587 /* TSmoother.m in Sources */,
+				AE8CE2F2160220CD005FC587 /* TSmoother2D.m in Sources */,
+				AE8CE2F3160220CD005FC587 /* TSmoother3D.m in Sources */,
+				AE8CE2F4160220CD005FC587 /* TAttraction.m in Sources */,
+				AE8CE2F5160220CD005FC587 /* TEulerIntegrator.m in Sources */,
+				AE8CE2F6160220CD005FC587 /* TModifiedEulerIntegrator.m in Sources */,
+				AE8CE2F7160220CD005FC587 /* TParticle.m in Sources */,
+				AE8CE2F8160220CD005FC587 /* TParticleSystem.m in Sources */,
+				AE8CE2F9160220CD005FC587 /* TRungeKuttaIntegrator.m in Sources */,
+				AE8CE2FA160220CD005FC587 /* TSpring.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -223,7 +405,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = macosx;
 			};
@@ -245,7 +427,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
 				SDKROOT = macosx;
 			};
 			name = Release;
@@ -257,6 +439,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TraerLib/TraerLib-Prefix.pch";
 				INFOPLIST_FILE = "TraerLib/TraerLib-Info.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -269,6 +452,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TraerLib/TraerLib-Prefix.pch";
 				INFOPLIST_FILE = "TraerLib/TraerLib-Info.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
