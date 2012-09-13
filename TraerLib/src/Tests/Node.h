@@ -31,6 +31,8 @@
     Graph*     g;
     
     float      lastTouch;
+    
+    BOOL       isRoot;
 }
 
 -(id)initWithParticle:(TParticle*)aParticle Graph:(Graph*)aGraph Ident:(NSString*)aIdent;
@@ -52,4 +54,5 @@
 -(void)setHovering:(BOOL)b;
 -(void)setDragging:(BOOL)b;
 
+-(void)setRoot:(BOOL)b;
 @end

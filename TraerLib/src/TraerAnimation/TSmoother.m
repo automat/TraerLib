@@ -31,6 +31,16 @@
     return self;
 }
 
++(id)smootherWithSmoothness:(float)smoothness
+{
+    return [[TSmoother alloc]initWithSmoothness:smoothness];
+}
+
++(id)smootherWithSmoothness:(float)smoothness AndStart:(float)start
+{
+    return [[TSmoother alloc]initWithSmoothness:smoothness AndStart:start];
+}
+
 -(void)setSmoothness:(float)smoothness
 {
     a = -smoothness;

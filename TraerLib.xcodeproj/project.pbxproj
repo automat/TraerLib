@@ -81,8 +81,8 @@
 		AE8CE29016021EFA005FC587 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		AE8CE29316021EFA005FC587 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
 		AE8CE2B3160220CD005FC587 /* FIGLUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FIGLUtils.h; sourceTree = "<group>"; };
-		AE8CE2B4160220CD005FC587 /* FIGLView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FIGLView.h; sourceTree = "<group>"; };
-		AE8CE2B5160220CD005FC587 /* FIGLView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FIGLView.m; sourceTree = "<group>"; };
+		AE8CE2B4160220CD005FC587 /* FIGLView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FIGLView.h; path = src/Fi/FIGLView.h; sourceTree = "<group>"; };
+		AE8CE2B5160220CD005FC587 /* FIGLView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FIGLView.m; path = src/Fi/FIGLView.m; sourceTree = "<group>"; };
 		AE8CE2B6160220CD005FC587 /* FIMath.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FIMath.h; sourceTree = "<group>"; };
 		AE8CE2B7160220CD005FC587 /* FIOpenGLView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FIOpenGLView.h; sourceTree = "<group>"; };
 		AE8CE2B8160220CD005FC587 /* FIOpenGLView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FIOpenGLView.m; sourceTree = "<group>"; };
@@ -213,6 +213,8 @@
 			isa = PBXGroup;
 			children = (
 				AE8CE2B1160220CD005FC587 /* src */,
+				AE8CE2B4160220CD005FC587 /* FIGLView.h */,
+				AE8CE2B5160220CD005FC587 /* FIGLView.m */,
 				AE8CE28F16021EFA005FC587 /* AppDelegate.h */,
 				AE8CE29016021EFA005FC587 /* AppDelegate.m */,
 				AE8CE29216021EFA005FC587 /* MainMenu.xib */,
@@ -248,8 +250,6 @@
 			isa = PBXGroup;
 			children = (
 				AE8CE2B3160220CD005FC587 /* FIGLUtils.h */,
-				AE8CE2B4160220CD005FC587 /* FIGLView.h */,
-				AE8CE2B5160220CD005FC587 /* FIGLView.m */,
 				AE8CE2B6160220CD005FC587 /* FIMath.h */,
 				AE8CE2B7160220CD005FC587 /* FIOpenGLView.h */,
 				AE8CE2B8160220CD005FC587 /* FIOpenGLView.m */,

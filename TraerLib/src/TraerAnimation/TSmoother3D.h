@@ -22,6 +22,9 @@
 -(id)initWithSmoothness:(float)smoothness;
 -(id)initWithInitialX:(float)initialX InitialY:(float)initialy InitialZ:(float)initialZ Smoothness:(float)smoothness;
 
++(id)smootherWithSmoothness:(float)smoothness;
++(id)smootherWithInitialX:(float)initialX InitialY:(float)initialy InitialZ:(float)initialZ Smoothness:(float)smoothness;
+
 -(void)setTargetX:(float)x;
 -(void)setTargetY:(float)y;
 -(void)setTargetZ:(float)z;

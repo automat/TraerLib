@@ -69,6 +69,16 @@ static inline void fiConstrainRange(float value, float min, float max)
     value =  value > max ? max : value < min ? min : value;
 }
 
+static inline float fiMax(float a, float b)
+{
+    return a > b ? a : a < b ? b : a;
+}
+
+static inline float fiMin(float a, float b)
+{
+    return a > b ? b : a < b ? a : a;
+}
+
 #pragma mark ---- Vector3d ----
 
 typedef struct{

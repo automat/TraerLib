@@ -30,6 +30,16 @@
     return self;
 }
 
++(id)smootherWithSmoothness:(float)smoothness
+{
+    return [[TSmoother2D alloc]initWithSmoothness:smoothness];
+}
+
++(id)smootherInitialX:(float)initialX InitialY:(float)initialY Smoothness:(float)smoothness
+{
+    return [[TSmoother2D alloc]initWithInitialX:initialX InitialY:initialY Smoothness:smoothness];
+}
+
 -(void)setTargetX:(float)x Y:(float)y
 {
     [sx setTarget:x];

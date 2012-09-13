@@ -41,15 +41,14 @@
     
     for(id <Testable> t in tests)
     {
-        [t setViewWidth: [self width]];
-        [t setViewHeight:[self height]];
+        [t setViewWidth:[self width]Height:[self height]];
         
         [t setup];
     }
     
+    testIndex = 1;
     
-
-    testIndex = 3;
+    currTest = [tests objectAtIndex:testIndex];
     
     
 }
@@ -58,24 +57,15 @@
 {
     [self setOrtographicProjection];
    
-    [[tests objectAtIndex:testIndex]update];
+    [currTest update];
 }
 
--(void)keyDown:(NSEvent *)theEvent
-{
-    [[tests objectAtIndex:testIndex]onKeyDown:theEvent];
-}
-
--(void)mouseDown:(NSEvent *)theEvent{[[tests objectAtIndex:testIndex]onMouseDown:theEvent];}
--(void)mouseUp:(NSEvent *)theEvent{[[tests objectAtIndex:testIndex]onMouseUp:theEvent];}
--(void)mouseDragged:(NSEvent *)theEvent{[[tests objectAtIndex:testIndex]onMouseDragged:theEvent];}
--(void)mouseMoved:(NSEvent *)theEvent{[[tests objectAtIndex:testIndex]onMouseMoved:theEvent];}
-
-
--(void)onResize
-{
-    [[tests objectAtIndex:testIndex]setViewWidth:[self width]];
-    [[tests objectAtIndex:testIndex]setViewHeight:[self height]];
-}
+-(void)keyDown:(NSEvent *)theEvent     {[currTest onKeyDown:theEvent];}
+-(void)mouseDown:(NSEvent *)theEvent   {[currTest onMouseDown:theEvent];}
+-(void)mouseUp:(NSEvent *)theEvent     {[currTest onMouseUp:theEvent];}
+-(void)mouseDragged:(NSEvent *)theEvent{[currTest onMouseDragged:theEvent];}
+-(void)mouseMoved:(NSEvent *)theEvent  {[currTest onMouseMoved:theEvent];}
+-(void)onResize                        {[currTest setViewWidth:[self width]Height:[self height]];
+                                        [currTest onResize];}
 
 @end

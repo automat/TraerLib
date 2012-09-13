@@ -30,6 +30,8 @@
 @property (nonatomic,readwrite, setter = setDragNode:) Node* dragNode;
 @property (nonatomic,readwrite, setter = setHoverNode:) Node* hoverNode;
 
+-(void)clear;
+
 -(Node*)getNodeWithID:(NSString*)ident;
 -(void)removeNode:(Node*)n;
 

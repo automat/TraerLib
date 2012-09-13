@@ -33,6 +33,17 @@
     return self;
 }
 
+
++(id)smootherWithSmoothness:(float)smoothness
+{
+    return [[TSmoother3D alloc]initWithSmoothness:smoothness];
+}
+
++(id)smootherWithInitialX:(float)initialX InitialY:(float)initialy InitialZ:(float)initialZ Smoothness:(float)smoothness
+{
+    return [[TSmoother3D alloc]initWithInitialX:initialX InitialY:initialy InitialZ:initialZ Smoothness:smoothness];
+}
+
 -(void)setTargetX:(float)x
 {
     [sx setTarget:x];

@@ -21,6 +21,9 @@
 -(id)initWithSmoothness:(float)smoothness;
 -(id)initWithSmoothness:(float)smoothness AndStart:(float)start;
 
++(id)smootherWithSmoothness:(float)smoothness;
++(id)smootherWithSmoothness:(float)smoothness AndStart:(float)start;
+
 -(void)setSmoothness:(float)smoothness;
 -(void)setTarget:(float)target;
 -(void)setValue:(float)x;

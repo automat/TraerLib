@@ -7,6 +7,7 @@
 //
 
 #import "FIOpenGLView.h"
+#import "Testable.h"
 
 
 @interface FIGLView : FIOpenGLView
@@ -15,6 +16,7 @@
     
     NSMutableArray* tests;
     int             testIndex;
+    id<Testable>    currTest;
 }
 
 @end

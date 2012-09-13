@@ -12,12 +12,12 @@
 
 -(void)setup;
 -(void)update;
--(void)setViewWidth:(float)w;
--(void)setViewHeight:(float)h;
+-(void)setViewWidth:(float)w Height:(float)h;
 -(void)onKeyDown:(NSEvent*)event;
 -(void)onMouseDown:(NSEvent*)event;
 -(void)onMouseUp:(NSEvent*)event;
 -(void)onMouseDragged:(NSEvent*)event;
 -(void)onMouseMoved:(NSEvent*)event;
+-(void)onResize;
 
 @end

@@ -7,12 +7,13 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "Testable.h"
+#import "TestObject.h"
 #import "TParticleSystem.h"
 #import "Graph.h"
 #import "Node.h"
+#import "TSmoother3D.h"
 
-@interface GraphMain : NSObject <Testable>
+@interface GraphMain : TestObject
 {
     @private
     
@@ -22,8 +23,7 @@
     NSString* GROW;
     NSString* CONNECT;
     
-    float width;
-    float height;
+    TSmoother3D* centroid;
 }
 
 -(void)generateRandomTreeWithNode:(Node*)root Depth:(int)d MaxCount:(int)mc;

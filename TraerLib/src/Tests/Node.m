@@ -85,7 +85,7 @@
     fiColor(&color);
     glPushMatrix();
     
-    fiDrawCircleWithResolutionVector3D([p position], 3, 5);
+    fiDrawCircleWithResolutionVector3D([p position], isRoot ? 6 : 3, 5);
     //fiDrawDebugCube(3);
     glPopMatrix();
     
@@ -117,6 +117,11 @@
     else{
         [p makeFree];
     }
+}
+
+-(void)setRoot:(BOOL)b
+{
+    isRoot = b;
 }
 
 @end
