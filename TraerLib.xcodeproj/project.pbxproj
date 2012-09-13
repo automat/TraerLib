@@ -35,6 +35,35 @@
 		AE8CE2F9160220CD005FC587 /* TRungeKuttaIntegrator.m in Sources */ = {isa = PBXBuildFile; fileRef = AE8CE2E3160220CD005FC587 /* TRungeKuttaIntegrator.m */; };
 		AE8CE2FA160220CD005FC587 /* TSpring.m in Sources */ = {isa = PBXBuildFile; fileRef = AE8CE2E5160220CD005FC587 /* TSpring.m */; };
 		AE8CE2FC1602213F005FC587 /* OpenGL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AE8CE2FB1602213F005FC587 /* OpenGL.framework */; };
+		AE8CE311160229C9005FC587 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AE8CE27D16021EFA005FC587 /* Cocoa.framework */; };
+		AE8CE317160229CA005FC587 /* TraerPhysics.m in Sources */ = {isa = PBXBuildFile; fileRef = AE8CE316160229CA005FC587 /* TraerPhysics.m */; };
+		AE8CE31C160229D6005FC587 /* TAttraction.h in Headers */ = {isa = PBXBuildFile; fileRef = AE8CE2D6160220CD005FC587 /* TAttraction.h */; };
+		AE8CE31D160229D6005FC587 /* TAttraction.m in Sources */ = {isa = PBXBuildFile; fileRef = AE8CE2D7160220CD005FC587 /* TAttraction.m */; };
+		AE8CE31E160229D6005FC587 /* TEulerIntegrator.h in Headers */ = {isa = PBXBuildFile; fileRef = AE8CE2D8160220CD005FC587 /* TEulerIntegrator.h */; };
+		AE8CE31F160229D6005FC587 /* TEulerIntegrator.m in Sources */ = {isa = PBXBuildFile; fileRef = AE8CE2D9160220CD005FC587 /* TEulerIntegrator.m */; };
+		AE8CE320160229D6005FC587 /* TForce.h in Headers */ = {isa = PBXBuildFile; fileRef = AE8CE2DA160220CD005FC587 /* TForce.h */; };
+		AE8CE321160229D6005FC587 /* TIntegrator.h in Headers */ = {isa = PBXBuildFile; fileRef = AE8CE2DB160220CD005FC587 /* TIntegrator.h */; };
+		AE8CE322160229D6005FC587 /* TModifiedEulerIntegrator.h in Headers */ = {isa = PBXBuildFile; fileRef = AE8CE2DC160220CD005FC587 /* TModifiedEulerIntegrator.h */; };
+		AE8CE323160229D6005FC587 /* TModifiedEulerIntegrator.m in Sources */ = {isa = PBXBuildFile; fileRef = AE8CE2DD160220CD005FC587 /* TModifiedEulerIntegrator.m */; };
+		AE8CE324160229D6005FC587 /* TParticle.h in Headers */ = {isa = PBXBuildFile; fileRef = AE8CE2DE160220CD005FC587 /* TParticle.h */; };
+		AE8CE325160229D6005FC587 /* TParticle.m in Sources */ = {isa = PBXBuildFile; fileRef = AE8CE2DF160220CD005FC587 /* TParticle.m */; };
+		AE8CE326160229D6005FC587 /* TParticleSystem.h in Headers */ = {isa = PBXBuildFile; fileRef = AE8CE2E0160220CD005FC587 /* TParticleSystem.h */; };
+		AE8CE327160229D6005FC587 /* TParticleSystem.m in Sources */ = {isa = PBXBuildFile; fileRef = AE8CE2E1160220CD005FC587 /* TParticleSystem.m */; };
+		AE8CE328160229D6005FC587 /* TRungeKuttaIntegrator.h in Headers */ = {isa = PBXBuildFile; fileRef = AE8CE2E2160220CD005FC587 /* TRungeKuttaIntegrator.h */; };
+		AE8CE329160229D6005FC587 /* TRungeKuttaIntegrator.m in Sources */ = {isa = PBXBuildFile; fileRef = AE8CE2E3160220CD005FC587 /* TRungeKuttaIntegrator.m */; };
+		AE8CE32A160229D6005FC587 /* TSpring.h in Headers */ = {isa = PBXBuildFile; fileRef = AE8CE2E4160220CD005FC587 /* TSpring.h */; };
+		AE8CE32B160229D6005FC587 /* TSpring.m in Sources */ = {isa = PBXBuildFile; fileRef = AE8CE2E5160220CD005FC587 /* TSpring.m */; };
+		AE8CE331160229E6005FC587 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AE8CE27D16021EFA005FC587 /* Cocoa.framework */; };
+		AE8CE337160229E6005FC587 /* TraerAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = AE8CE336160229E6005FC587 /* TraerAnimation.m */; };
+		AE8CE33B160229ED005FC587 /* TAnimator.h in Headers */ = {isa = PBXBuildFile; fileRef = AE8CE2CC160220CD005FC587 /* TAnimator.h */; };
+		AE8CE33C160229ED005FC587 /* TAnimator.m in Sources */ = {isa = PBXBuildFile; fileRef = AE8CE2CD160220CD005FC587 /* TAnimator.m */; };
+		AE8CE33D160229ED005FC587 /* TSmoother.h in Headers */ = {isa = PBXBuildFile; fileRef = AE8CE2CE160220CD005FC587 /* TSmoother.h */; };
+		AE8CE33E160229ED005FC587 /* TSmoother.m in Sources */ = {isa = PBXBuildFile; fileRef = AE8CE2CF160220CD005FC587 /* TSmoother.m */; };
+		AE8CE33F160229ED005FC587 /* TSmoother2D.h in Headers */ = {isa = PBXBuildFile; fileRef = AE8CE2D0160220CD005FC587 /* TSmoother2D.h */; };
+		AE8CE340160229ED005FC587 /* TSmoother2D.m in Sources */ = {isa = PBXBuildFile; fileRef = AE8CE2D1160220CD005FC587 /* TSmoother2D.m */; };
+		AE8CE341160229ED005FC587 /* TSmoother3D.h in Headers */ = {isa = PBXBuildFile; fileRef = AE8CE2D2160220CD005FC587 /* TSmoother3D.h */; };
+		AE8CE342160229ED005FC587 /* TSmoother3D.m in Sources */ = {isa = PBXBuildFile; fileRef = AE8CE2D3160220CD005FC587 /* TSmoother3D.m */; };
+		AE8CE343160229ED005FC587 /* TTickable.h in Headers */ = {isa = PBXBuildFile; fileRef = AE8CE2D4160220CD005FC587 /* TTickable.h */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -100,6 +129,14 @@
 		AE8CE2E4160220CD005FC587 /* TSpring.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TSpring.h; sourceTree = "<group>"; };
 		AE8CE2E5160220CD005FC587 /* TSpring.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TSpring.m; sourceTree = "<group>"; };
 		AE8CE2FB1602213F005FC587 /* OpenGL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGL.framework; path = System/Library/Frameworks/OpenGL.framework; sourceTree = SDKROOT; };
+		AE8CE310160229C9005FC587 /* libTraerPhysics.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libTraerPhysics.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		AE8CE314160229C9005FC587 /* TraerPhysics-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TraerPhysics-Prefix.pch"; sourceTree = "<group>"; };
+		AE8CE315160229CA005FC587 /* TraerPhysics.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TraerPhysics.h; sourceTree = "<group>"; };
+		AE8CE316160229CA005FC587 /* TraerPhysics.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TraerPhysics.m; sourceTree = "<group>"; };
+		AE8CE330160229E6005FC587 /* libTraerAnimation.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libTraerAnimation.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		AE8CE334160229E6005FC587 /* TraerAnimation-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TraerAnimation-Prefix.pch"; sourceTree = "<group>"; };
+		AE8CE335160229E6005FC587 /* TraerAnimation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TraerAnimation.h; sourceTree = "<group>"; };
+		AE8CE336160229E6005FC587 /* TraerAnimation.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TraerAnimation.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +149,22 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		AE8CE30D160229C9005FC587 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AE8CE311160229C9005FC587 /* Cocoa.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AE8CE32D160229E6005FC587 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AE8CE331160229E6005FC587 /* Cocoa.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
@@ -119,6 +172,8 @@
 			isa = PBXGroup;
 			children = (
 				AE8CE28316021EFA005FC587 /* TraerLib */,
+				AE8CE312160229C9005FC587 /* TraerPhysics */,
+				AE8CE332160229E6005FC587 /* TraerAnimation */,
 				AE8CE27C16021EFA005FC587 /* Frameworks */,
 				AE8CE27A16021EFA005FC587 /* Products */,
 			);
@@ -128,6 +183,8 @@
 			isa = PBXGroup;
 			children = (
 				AE8CE27916021EFA005FC587 /* TraerLib.app */,
+				AE8CE310160229C9005FC587 /* libTraerPhysics.a */,
+				AE8CE330160229E6005FC587 /* libTraerAnimation.a */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -263,7 +320,74 @@
 			path = TraerPhysics;
 			sourceTree = "<group>";
 		};
+		AE8CE312160229C9005FC587 /* TraerPhysics */ = {
+			isa = PBXGroup;
+			children = (
+				AE8CE315160229CA005FC587 /* TraerPhysics.h */,
+				AE8CE316160229CA005FC587 /* TraerPhysics.m */,
+				AE8CE313160229C9005FC587 /* Supporting Files */,
+			);
+			path = TraerPhysics;
+			sourceTree = "<group>";
+		};
+		AE8CE313160229C9005FC587 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				AE8CE314160229C9005FC587 /* TraerPhysics-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		AE8CE332160229E6005FC587 /* TraerAnimation */ = {
+			isa = PBXGroup;
+			children = (
+				AE8CE335160229E6005FC587 /* TraerAnimation.h */,
+				AE8CE336160229E6005FC587 /* TraerAnimation.m */,
+				AE8CE333160229E6005FC587 /* Supporting Files */,
+			);
+			path = TraerAnimation;
+			sourceTree = "<group>";
+		};
+		AE8CE333160229E6005FC587 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				AE8CE334160229E6005FC587 /* TraerAnimation-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		AE8CE30E160229C9005FC587 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AE8CE31C160229D6005FC587 /* TAttraction.h in Headers */,
+				AE8CE31E160229D6005FC587 /* TEulerIntegrator.h in Headers */,
+				AE8CE320160229D6005FC587 /* TForce.h in Headers */,
+				AE8CE321160229D6005FC587 /* TIntegrator.h in Headers */,
+				AE8CE322160229D6005FC587 /* TModifiedEulerIntegrator.h in Headers */,
+				AE8CE324160229D6005FC587 /* TParticle.h in Headers */,
+				AE8CE326160229D6005FC587 /* TParticleSystem.h in Headers */,
+				AE8CE328160229D6005FC587 /* TRungeKuttaIntegrator.h in Headers */,
+				AE8CE32A160229D6005FC587 /* TSpring.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AE8CE32E160229E6005FC587 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AE8CE33B160229ED005FC587 /* TAnimator.h in Headers */,
+				AE8CE33D160229ED005FC587 /* TSmoother.h in Headers */,
+				AE8CE33F160229ED005FC587 /* TSmoother2D.h in Headers */,
+				AE8CE341160229ED005FC587 /* TSmoother3D.h in Headers */,
+				AE8CE343160229ED005FC587 /* TTickable.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
 		AE8CE27816021EFA005FC587 /* TraerLib */ = {
@@ -282,6 +406,40 @@
 			productName = TraerLib;
 			productReference = AE8CE27916021EFA005FC587 /* TraerLib.app */;
 			productType = "com.apple.product-type.application";
+		};
+		AE8CE30F160229C9005FC587 /* TraerPhysics */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AE8CE318160229CA005FC587 /* Build configuration list for PBXNativeTarget "TraerPhysics" */;
+			buildPhases = (
+				AE8CE30C160229C9005FC587 /* Sources */,
+				AE8CE30D160229C9005FC587 /* Frameworks */,
+				AE8CE30E160229C9005FC587 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TraerPhysics;
+			productName = TraerPhysics;
+			productReference = AE8CE310160229C9005FC587 /* libTraerPhysics.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		AE8CE32F160229E6005FC587 /* TraerAnimation */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AE8CE338160229E6005FC587 /* Build configuration list for PBXNativeTarget "TraerAnimation" */;
+			buildPhases = (
+				AE8CE32C160229E6005FC587 /* Sources */,
+				AE8CE32D160229E6005FC587 /* Frameworks */,
+				AE8CE32E160229E6005FC587 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TraerAnimation;
+			productName = TraerAnimation;
+			productReference = AE8CE330160229E6005FC587 /* libTraerAnimation.a */;
+			productType = "com.apple.product-type.library.static";
 		};
 /* End PBXNativeTarget section */
 
@@ -305,6 +463,8 @@
 			projectRoot = "";
 			targets = (
 				AE8CE27816021EFA005FC587 /* TraerLib */,
+				AE8CE30F160229C9005FC587 /* TraerPhysics */,
+				AE8CE32F160229E6005FC587 /* TraerAnimation */,
 			);
 		};
 /* End PBXProject section */
@@ -350,6 +510,33 @@
 				AE8CE2F8160220CD005FC587 /* TParticleSystem.m in Sources */,
 				AE8CE2F9160220CD005FC587 /* TRungeKuttaIntegrator.m in Sources */,
 				AE8CE2FA160220CD005FC587 /* TSpring.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AE8CE30C160229C9005FC587 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AE8CE317160229CA005FC587 /* TraerPhysics.m in Sources */,
+				AE8CE31D160229D6005FC587 /* TAttraction.m in Sources */,
+				AE8CE31F160229D6005FC587 /* TEulerIntegrator.m in Sources */,
+				AE8CE323160229D6005FC587 /* TModifiedEulerIntegrator.m in Sources */,
+				AE8CE325160229D6005FC587 /* TParticle.m in Sources */,
+				AE8CE327160229D6005FC587 /* TParticleSystem.m in Sources */,
+				AE8CE329160229D6005FC587 /* TRungeKuttaIntegrator.m in Sources */,
+				AE8CE32B160229D6005FC587 /* TSpring.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AE8CE32C160229E6005FC587 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AE8CE337160229E6005FC587 /* TraerAnimation.m in Sources */,
+				AE8CE33C160229ED005FC587 /* TAnimator.m in Sources */,
+				AE8CE33E160229ED005FC587 /* TSmoother.m in Sources */,
+				AE8CE340160229ED005FC587 /* TSmoother2D.m in Sources */,
+				AE8CE342160229ED005FC587 /* TSmoother3D.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -458,6 +645,46 @@
 			};
 			name = Release;
 		};
+		AE8CE319160229CA005FC587 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TraerPhysics/TraerPhysics-Prefix.pch";
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		AE8CE31A160229CA005FC587 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TraerPhysics/TraerPhysics-Prefix.pch";
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		AE8CE339160229E6005FC587 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TraerAnimation/TraerAnimation-Prefix.pch";
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		AE8CE33A160229E6005FC587 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TraerAnimation/TraerAnimation-Prefix.pch";
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -475,6 +702,22 @@
 			buildConfigurations = (
 				AE8CE29816021EFA005FC587 /* Debug */,
 				AE8CE29916021EFA005FC587 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		AE8CE318160229CA005FC587 /* Build configuration list for PBXNativeTarget "TraerPhysics" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AE8CE319160229CA005FC587 /* Debug */,
+				AE8CE31A160229CA005FC587 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		AE8CE338160229E6005FC587 /* Build configuration list for PBXNativeTarget "TraerAnimation" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AE8CE339160229E6005FC587 /* Debug */,
+				AE8CE33A160229E6005FC587 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};

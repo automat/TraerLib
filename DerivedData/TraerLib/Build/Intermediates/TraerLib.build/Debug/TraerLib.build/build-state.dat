@@ -1,0 +1,906 @@
+TTraerLib
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/TraerLib.app/Contents/Info.plist TraerLib/TraerLib-Info.plist
+cProcessPCH /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/PrecompiledHeaders/TraerLib-Prefix-bezzrhuilnoveicxjpkeasvwcjwx/TraerLib-Prefix.pch.pth TraerLib/TraerLib-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TParticleSystem.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TParticleSystem.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TestObject.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/TestObject.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/main.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/AppDelegate.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/FIGLView.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Fi/FIGLView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/FIOpenGLView.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Fi/FIOpenGLView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/Edge.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/Edge.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/Graph.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/Graph.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/GraphMain.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/GraphMain.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/Node.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/Node.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TestBouncyBalls.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/TestBouncyBalls.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TestSimplePendulum.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/TestSimplePendulum.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TestTraerAnimation.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/TestTraerAnimation.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TAnimator.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerAnimation/TAnimator.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TSmoother.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerAnimation/TSmoother.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TSmoother2D.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerAnimation/TSmoother2D.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TSmoother3D.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerAnimation/TSmoother3D.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TAttraction.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TAttraction.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TEulerIntegrator.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TEulerIntegrator.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TModifiedEulerIntegrator.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TModifiedEulerIntegrator.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TParticle.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TParticle.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TRungeKuttaIntegrator.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TRungeKuttaIntegrator.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TSpring.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TSpring.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/TraerLib.app/Contents/MacOS/TraerLib normal x86_64
+cCopyStringsFile /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/TraerLib.app/Contents/Resources/en.lproj/InfoPlist.strings TraerLib/en.lproj/InfoPlist.strings
+cCpResource TraerLib/en.lproj/Credits.rtf DerivedData/TraerLib/Build/Products/Debug/TraerLib.app/Contents/Resources/en.lproj/Credits.rtf
+cCompileXIB /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/en.lproj/MainMenu.xib
+cTouch /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/TraerLib.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c000000004FF015DA00000000000000AA
+t1341134298
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000005028E41800000000000025C8
+t1344857112
+s9672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c000000005028E41800000000000001E5
+t1344857112
+s485
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+c000000005028E41A000000000000ADFC
+t1344857114
+s44540
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/PrecompiledHeaders/TraerLib-Prefix-bezzrhuilnoveicxjpkeasvwcjwx/TraerLib-Prefix.pch.pth
+t1347547947
+s13697888
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/AppDelegate.o
+t1347547947
+s27660
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/Edge.o
+t1347547947
+s17020
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/FIGLView.o
+t1347547947
+s32236
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/FIOpenGLView.o
+t1347547947
+s60176
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/Graph.o
+t1347547948
+s32884
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/GraphMain.o
+t1347547948
+s40096
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/Node.o
+t1347547948
+s24584
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TAnimator.o
+t1347547948
+s18852
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TAttraction.o
+t1347547948
+s23464
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TEulerIntegrator.o
+t1347547948
+s18496
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TModifiedEulerIntegrator.o
+t1347547948
+s19280
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TParticle.o
+t1347547947
+s18200
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TParticleSystem.o
+t1347547947
+s53668
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TRungeKuttaIntegrator.o
+t1347547949
+s42644
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TSmoother.o
+t1347547948
+s16368
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TSmoother2D.o
+t1347547948
+s21848
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TSmoother3D.o
+t1347547948
+s24908
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TSpring.o
+t1347547948
+s26944
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TestBouncyBalls.o
+t1347547948
+s34400
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TestObject.o
+t1347547948
+s27480
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TestSimplePendulum.o
+t1347547948
+s37192
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TestTraerAnimation.o
+t1347547948
+s29848
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TraerLib.LinkFileList
+c000000005051F32A0000000000000EDB
+t1347547946
+s3803
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/main.o
+t1347547947
+s2760
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/TraerLib.app
+t1347547949
+s102
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/TraerLib.app/Contents/Info.plist
+t1347547946
+s1368
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/TraerLib.app/Contents/MacOS/TraerLib
+t1347547949
+s242800
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/TraerLib.app/Contents/PkgInfo
+t1347547946
+s8
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/TraerLib.app/Contents/Resources/en.lproj/Credits.rtf
+t1347547949
+s436
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/TraerLib.app/Contents/Resources/en.lproj/InfoPlist.strings
+t1347547949
+s92
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/TraerLib.app/Contents/Resources/en.lproj/MainMenu.nib
+t1347547949
+s26723
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/AppDelegate.h
+c000000005051E77A0000000000000108
+t1347544954
+s264
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/AppDelegate.m
+c000000005051E77A000000000000013D
+t1347544954
+s317
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/TraerLib-Prefix.pch
+c000000005051E77A0000000000000093
+t1347544954
+s147
+i<Cocoa/Cocoa.h>
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/en.lproj/Credits.rtf
+c000000005051E77A00000000000001B4
+t1347544954
+s436
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/en.lproj/InfoPlist.strings
+c000000005051E77A000000000000002D
+t1347544954
+s45
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/en.lproj/MainMenu.xib
+c000000005051E9870000000000023452
+t1347545479
+s144466
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/main.m
+c000000005051E77A00000000000000F0
+t1347544954
+s240
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Fi/FIGLUtils.h
+c000000005051B5A100000000000025B2
+t1347532193
+s9650
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Fi/FIGLView.h
+c0000000050504ABE0000000000000115
+t1347439294
+s277
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Fi/FIGLView.m
+c000000005051C7F50000000000000735
+t1347536885
+s1845
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Fi/FIMath.h
+c000000005051B9480000000000001481
+t1347533128
+s5249
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Fi/FIOpenGLView.h
+c000000005050527B0000000000000908
+t1347441275
+s2312
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Fi/FIOpenGLView.m
+c00000000505097C200000000000026C2
+t1347459010
+s9922
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/Edge.h
+c000000005050675900000000000002B4
+t1347446617
+s692
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/Edge.m
+c000000005051DAB400000000000003E0
+t1347541684
+s992
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/Graph.h
+c000000005051D9F5000000000000056E
+t1347541493
+s1390
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/Graph.m
+c000000005051DEC900000000000010A1
+t1347542729
+s4257
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/GraphMain.h
+c00000000505080D60000000000000220
+t1347453142
+s544
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/GraphMain.m
+c000000005051DB340000000000000886
+t1347541812
+s2182
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/Node.h
+c000000005050784E0000000000000438
+t1347450958
+s1080
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/Node.m
+c000000005051DC930000000000000741
+t1347542163
+s1857
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/TestBouncyBalls.h
+c000000005051B7DA00000000000001E4
+t1347532762
+s484
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/TestBouncyBalls.m
+c000000005051B995000000000000082D
+t1347533205
+s2093
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/TestObject.h
+c000000005051A72D0000000000000122
+t1347528493
+s290
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/TestObject.m
+c000000005051AFDB00000000000001EA
+t1347530715
+s490
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/TestSimplePendulum.h
+c000000005051A72F00000000000001CA
+t1347528495
+s458
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/TestSimplePendulum.m
+c000000005051A2A30000000000000657
+t1347527331
+s1623
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/TestTraerAnimation.h
+c000000005051A72E00000000000001C7
+t1347528494
+s455
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/TestTraerAnimation.m
+c00000000505051790000000000000523
+t1347441017
+s1315
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/Testable.h
+c000000005051AFA200000000000001D7
+t1347530658
+s471
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerAnimation/TAnimator.h
+c00000000505043BE0000000000000263
+t1347437502
+s611
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerAnimation/TAnimator.m
+c00000000505043C30000000000000469
+t1347437507
+s1129
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerAnimation/TSmoother.h
+c0000000050475BE60000000000000257
+t1346853862
+s599
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerAnimation/TSmoother.m
+c000000005050513000000000000003FB
+t1347440944
+s1019
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerAnimation/TSmoother2D.h
+c0000000050475CAF0000000000000307
+t1346854063
+s775
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerAnimation/TSmoother2D.m
+c0000000050475CE10000000000000621
+t1346854113
+s1569
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerAnimation/TSmoother3D.h
+c0000000050475DA30000000000000382
+t1346854307
+s898
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerAnimation/TSmoother3D.m
+c0000000050504B5A000000000000080C
+t1347439450
+s2060
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerAnimation/TTickable.h
+c000000005047516E0000000000000102
+t1346851182
+s258
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TAttraction.h
+c000000005051E3CF0000000000000378
+t1347544015
+s888
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TAttraction.m
+c000000005050343E00000000000008AD
+t1347433534
+s2221
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TEulerIntegrator.h
+c00000000504890FD00000000000001DA
+t1346932989
+s474
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TEulerIntegrator.m
+c00000000505195F50000000000000452
+t1347524085
+s1106
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TForce.h
+c00000000504790E6000000000000010D
+t1346867430
+s269
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TIntegrator.h
+c000000005048917D0000000000000137
+t1346933117
+s311
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TModifiedEulerIntegrator.h
+c00000000504890CE00000000000001EA
+t1346932942
+s490
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TModifiedEulerIntegrator.m
+c00000000505196100000000000000595
+t1347524112
+s1429
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TParticle.h
+c000000005051957600000000000002CE
+t1347523958
+s718
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TParticle.m
+c000000005051957D000000000000051D
+t1347523965
+s1309
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TParticleSystem.h
+c0000000050509BAE0000000000000943
+t1347460014
+s2371
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TParticleSystem.m
+c0000000050509BD400000000000017A2
+t1347460052
+s6050
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TRungeKuttaIntegrator.h
+c000000005050B3F500000000000003C6
+t1347466229
+s966
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TRungeKuttaIntegrator.m
+c000000005051A1120000000000004249
+t1347526930
+s16969
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TSpring.h
+c000000005048A1E200000000000003EF
+t1346937314
+s1007
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TSpring.m
+c00000000505034F300000000000009C9
+t1347433715
+s2505
+
+NTraerLib/TraerLib-Info.plist
+c000000005051E77A000000000000043F
+t1347544954
+s1087
+
+CBuild AST from /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/AppDelegate.m
+r0
+
+CBuild AST from /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/main.m
+r0
+
+CBuild AST from /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Fi/FIGLView.m
+r0
+
+CBuild AST from /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Fi/FIOpenGLView.m
+r0
+
+CBuild AST from /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/Edge.m
+r0
+
+CBuild AST from /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/Graph.m
+r0
+
+CBuild AST from /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/GraphMain.m
+r0
+
+CBuild AST from /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/Node.m
+r0
+
+CBuild AST from /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/TestBouncyBalls.m
+r0
+
+CBuild AST from /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/TestObject.m
+r0
+
+CBuild AST from /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/TestSimplePendulum.m
+r0
+
+CBuild AST from /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/TestTraerAnimation.m
+r0
+
+CBuild AST from /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerAnimation/TAnimator.m
+r0
+
+CBuild AST from /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerAnimation/TSmoother.m
+r0
+
+CBuild AST from /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerAnimation/TSmoother2D.m
+r0
+
+CBuild AST from /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerAnimation/TSmoother3D.m
+r0
+
+CBuild AST from /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TAttraction.m
+r0
+
+CBuild AST from /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TEulerIntegrator.m
+r0
+
+CBuild AST from /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TModifiedEulerIntegrator.m
+r0
+
+CBuild AST from /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TParticle.m
+r0
+
+CBuild AST from /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TParticleSystem.m
+r0
+
+CBuild AST from /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TRungeKuttaIntegrator.m
+r0
+
+CBuild AST from /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TSpring.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies854230fd2b02b641^e38930fd2b02b641^---0#1#0#--18"Check dependencies36"18BAD48F-E7A0-4681-B763-B0D9E0A32F2C-
+
+CCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/AppDelegate.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369240747.397213
+e369240747.570277
+r1
+xCompileC
+xDerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/AppDelegate.o
+x/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/AppDelegate.m05de65ab2a02b641^dc0d92ab2a02b641^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/AppDelegate.m0000000000000000^3509"CompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/AppDelegate.o TraerLib/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/henryk/Documents/C_Code/_frameworks/TraerLib    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-generated-files.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-own-target-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-all-target-headers.hmap -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-project-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/DerivedSources/x86_64 -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/DerivedSources -F/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug -include /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/PrecompiledHeaders/TraerLib-Prefix-bezzrhuilnoveicxjpkeasvwcjwx/TraerLib-Prefix.pch -MMD -MT dependencies -MF /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/AppDelegate.d --serialize-diagnostics /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/AppDelegate.dia -c /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/AppDelegate.m -o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/AppDelegate.o36"6CDE0611-C906-46DB-8975-9A52E4A178A8-
+
+CCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/Edge.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/Edge.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369240747.626896
+e369240748.051710
+r1
+xCompileC
+xDerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/Edge.o
+x/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/Edge.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/Edge.m1f9fa0ab2a02b641^473c0dac2a02b641^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/Edge.m0000000000000000^3487"CompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/Edge.o TraerLib/src/Tests/Edge.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/henryk/Documents/C_Code/_frameworks/TraerLib    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-generated-files.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-own-target-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-all-target-headers.hmap -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-project-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/DerivedSources/x86_64 -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/DerivedSources -F/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug -include /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/PrecompiledHeaders/TraerLib-Prefix-bezzrhuilnoveicxjpkeasvwcjwx/TraerLib-Prefix.pch -MMD -MT dependencies -MF /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/Edge.d --serialize-diagnostics /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/Edge.dia -c /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/Edge.m -o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/Edge.o36"3E9CF62D-F470-44F0-B52D-4F3CF2920E68-
+
+CCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/FIGLView.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Fi/FIGLView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369240747.458323
+e369240747.625589
+r1
+xCompileC
+xDerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/FIGLView.o
+x/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Fi/FIGLView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Fi/FIGLView.ma37475ab2a02b641^0f27a0ab2a02b641^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Fi/FIGLView.m0000000000000000^3505"CompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/FIGLView.o TraerLib/src/Fi/FIGLView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/henryk/Documents/C_Code/_frameworks/TraerLib    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-generated-files.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-own-target-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-all-target-headers.hmap -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-project-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/DerivedSources/x86_64 -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/DerivedSources -F/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug -include /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/PrecompiledHeaders/TraerLib-Prefix-bezzrhuilnoveicxjpkeasvwcjwx/TraerLib-Prefix.pch -MMD -MT dependencies -MF /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/FIGLView.d --serialize-diagnostics /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/FIGLView.dia -c /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Fi/FIGLView.m -o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/FIGLView.o36"AC253DE5-4AD6-459C-AD9C-1120A99C7E59-
+
+CCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/FIOpenGLView.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Fi/FIOpenGLView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369240747.571609
+e369240748.052897
+r1
+xCompileC
+xDerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/FIOpenGLView.o
+x/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Fi/FIOpenGLView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Fi/FIOpenGLView.m077892ab2a02b641^768a0dac2a02b641^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Fi/FIOpenGLView.m0000000000000000^3529"CompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/FIOpenGLView.o TraerLib/src/Fi/FIOpenGLView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/henryk/Documents/C_Code/_frameworks/TraerLib    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-generated-files.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-own-target-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-all-target-headers.hmap -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-project-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/DerivedSources/x86_64 -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/DerivedSources -F/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug -include /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/PrecompiledHeaders/TraerLib-Prefix-bezzrhuilnoveicxjpkeasvwcjwx/TraerLib-Prefix.pch -MMD -MT dependencies -MF /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/FIOpenGLView.d --serialize-diagnostics /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/FIOpenGLView.dia -c /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Fi/FIOpenGLView.m -o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/FIOpenGLView.o36"0180D36E-CBC1-47E6-81A9-AF933F95B409-
+
+CCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/Graph.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/Graph.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369240748.053161
+e369240748.141126
+r1
+xCompileC
+xDerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/Graph.o
+x/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/Graph.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/Graph.mb6b90dac2a02b641^ee2224ac2a02b641^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/Graph.m0000000000000000^3493"CompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/Graph.o TraerLib/src/Tests/Graph.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/henryk/Documents/C_Code/_frameworks/TraerLib    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-generated-files.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-own-target-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-all-target-headers.hmap -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-project-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/DerivedSources/x86_64 -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/DerivedSources -F/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug -include /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/PrecompiledHeaders/TraerLib-Prefix-bezzrhuilnoveicxjpkeasvwcjwx/TraerLib-Prefix.pch -MMD -MT dependencies -MF /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/Graph.d --serialize-diagnostics /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/Graph.dia -c /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/Graph.m -o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/Graph.o36"0DC269BD-D794-4626-AD65-F93EE4685D01-
+
+CCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/GraphMain.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/GraphMain.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369240748.053667
+e369240748.218287
+r1
+xCompileC
+xDerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/GraphMain.o
+x/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/GraphMain.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/GraphMain.m0ad90dac2a02b641^a4e237ac2a02b641^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/GraphMain.m0000000000000000^3517"CompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/GraphMain.o TraerLib/src/Tests/GraphMain.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/henryk/Documents/C_Code/_frameworks/TraerLib    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-generated-files.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-own-target-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-all-target-headers.hmap -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-project-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/DerivedSources/x86_64 -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/DerivedSources -F/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug -include /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/PrecompiledHeaders/TraerLib-Prefix-bezzrhuilnoveicxjpkeasvwcjwx/TraerLib-Prefix.pch -MMD -MT dependencies -MF /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/GraphMain.d --serialize-diagnostics /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/GraphMain.dia -c /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/GraphMain.m -o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/GraphMain.o36"F3410A81-DEEE-4510-A785-20083B07A109-
+
+CCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/Node.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/Node.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369240748.142449
+e369240748.214176
+r1
+xCompileC
+xDerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/Node.o
+x/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/Node.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/Node.m2ca024ac2a02b641^4ed436ac2a02b641^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/Node.m0000000000000000^3487"CompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/Node.o TraerLib/src/Tests/Node.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/henryk/Documents/C_Code/_frameworks/TraerLib    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-generated-files.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-own-target-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-all-target-headers.hmap -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-project-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/DerivedSources/x86_64 -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/DerivedSources -F/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug -include /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/PrecompiledHeaders/TraerLib-Prefix-bezzrhuilnoveicxjpkeasvwcjwx/TraerLib-Prefix.pch -MMD -MT dependencies -MF /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/Node.d --serialize-diagnostics /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/Node.dia -c /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/Node.m -o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/Node.o36"02A48FE6-E51B-4083-8BE7-1616B119CBA6-
+
+CCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TAnimator.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerAnimation/TAnimator.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369240748.403749
+e369240748.552497
+r1
+xCompileC
+xDerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TAnimator.o
+x/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerAnimation/TAnimator.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerAnimation/TAnimator.mf2ed71ac2a02b641^50708dac2a02b641^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerAnimation/TAnimator.m0000000000000000^3535"CompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TAnimator.o TraerLib/src/TraerAnimation/TAnimator.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/henryk/Documents/C_Code/_frameworks/TraerLib    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-generated-files.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-own-target-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-all-target-headers.hmap -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-project-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/DerivedSources/x86_64 -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/DerivedSources -F/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug -include /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/PrecompiledHeaders/TraerLib-Prefix-bezzrhuilnoveicxjpkeasvwcjwx/TraerLib-Prefix.pch -MMD -MT dependencies -MF /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TAnimator.d --serialize-diagnostics /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TAnimator.dia -c /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerAnimation/TAnimator.m -o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TAnimator.o36"B8D620A7-DE6E-4993-9A61-441CE8B7B668-
+
+CCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TAttraction.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TAttraction.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369240748.672953
+e369240748.754711
+r1
+xCompileC
+xDerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TAttraction.o
+x/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TAttraction.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TAttraction.m1e6dacac2a02b641^7635c1ac2a02b641^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TAttraction.m0000000000000000^3543"CompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TAttraction.o TraerLib/src/TraerPhysics/TAttraction.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/henryk/Documents/C_Code/_frameworks/TraerLib    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-generated-files.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-own-target-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-all-target-headers.hmap -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-project-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/DerivedSources/x86_64 -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/DerivedSources -F/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug -include /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/PrecompiledHeaders/TraerLib-Prefix-bezzrhuilnoveicxjpkeasvwcjwx/TraerLib-Prefix.pch -MMD -MT dependencies -MF /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TAttraction.d --serialize-diagnostics /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TAttraction.dia -c /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TAttraction.m -o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TAttraction.o36"74982246-02B7-4575-B4A6-313A76EEE66A-
+
+CCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TEulerIntegrator.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TEulerIntegrator.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369240748.755558
+e369240748.863202
+r1
+xCompileC
+xDerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TEulerIntegrator.o
+x/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TEulerIntegrator.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TEulerIntegrator.mde8dc1ac2a02b641^cefadcac2a02b641^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TEulerIntegrator.m0000000000000000^3573"CompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TEulerIntegrator.o TraerLib/src/TraerPhysics/TEulerIntegrator.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/henryk/Documents/C_Code/_frameworks/TraerLib    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-generated-files.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-own-target-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-all-target-headers.hmap -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-project-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/DerivedSources/x86_64 -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/DerivedSources -F/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug -include /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/PrecompiledHeaders/TraerLib-Prefix-bezzrhuilnoveicxjpkeasvwcjwx/TraerLib-Prefix.pch -MMD -MT dependencies -MF /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TEulerIntegrator.d --serialize-diagnostics /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TEulerIntegrator.dia -c /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TEulerIntegrator.m -o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TEulerIntegrator.o36"439BB951-D5D1-4C19-889C-28F1B76EA9D1-
+
+CCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TModifiedEulerIntegrator.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TModifiedEulerIntegrator.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369240748.755769
+e369240748.877864
+r1
+xCompileC
+xDerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TModifiedEulerIntegrator.o
+x/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TModifiedEulerIntegrator.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compile /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TModifiedEulerIntegrator.m2499c1ac2a02b641^e7c6e0ac2a02b641^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TModifiedEulerIntegrator.m0000000000000000^3621"CompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TModifiedEulerIntegrator.o TraerLib/src/TraerPhysics/TModifiedEulerIntegrator.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/henryk/Documents/C_Code/_frameworks/TraerLib    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-generated-files.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-own-target-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-all-target-headers.hmap -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-project-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/DerivedSources/x86_64 -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/DerivedSources -F/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug -include /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/PrecompiledHeaders/TraerLib-Prefix-bezzrhuilnoveicxjpkeasvwcjwx/TraerLib-Prefix.pch -MMD -MT dependencies -MF /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TModifiedEulerIntegrator.d --serialize-diagnostics /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TModifiedEulerIntegrator.dia -c /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TModifiedEulerIntegrator.m -o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TModifiedEulerIntegrator.o36"DFB7A57D-ED44-4332-941A-6BB31FCD8B55-
+
+CCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TParticle.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TParticle.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369240747.239863
+e369240747.365271
+r1
+xCompileC
+xDerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TParticle.o
+x/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TParticle.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TParticle.mff913dab2a02b641^efa85dab2a02b641^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TParticle.m0000000000000000^3531"CompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TParticle.o TraerLib/src/TraerPhysics/TParticle.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/henryk/Documents/C_Code/_frameworks/TraerLib    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-generated-files.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-own-target-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-all-target-headers.hmap -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-project-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/DerivedSources/x86_64 -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/DerivedSources -F/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug -include /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/PrecompiledHeaders/TraerLib-Prefix-bezzrhuilnoveicxjpkeasvwcjwx/TraerLib-Prefix.pch -MMD -MT dependencies -MF /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TParticle.d --serialize-diagnostics /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TParticle.dia -c /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TParticle.m -o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TParticle.o36"1154EA62-0E47-4052-A9CF-A60DAD4951C6-
+
+CCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TParticleSystem.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TParticleSystem.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369240747.239903
+e369240747.395117
+r1
+xCompileC
+xDerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TParticleSystem.o
+x/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TParticleSystem.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TParticleSystem.m83873dab2a02b641^5bed65ab2a02b641^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TParticleSystem.m0000000000000000^3567"CompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TParticleSystem.o TraerLib/src/TraerPhysics/TParticleSystem.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/henryk/Documents/C_Code/_frameworks/TraerLib    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-generated-files.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-own-target-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-all-target-headers.hmap -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-project-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/DerivedSources/x86_64 -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/DerivedSources -F/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug -include /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/PrecompiledHeaders/TraerLib-Prefix-bezzrhuilnoveicxjpkeasvwcjwx/TraerLib-Prefix.pch -MMD -MT dependencies -MF /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TParticleSystem.d --serialize-diagnostics /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TParticleSystem.dia -c /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TParticleSystem.m -o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TParticleSystem.o36"C6149EE6-572D-4722-8D04-048799DD47EE-
+
+CCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TRungeKuttaIntegrator.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TRungeKuttaIntegrator.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369240748.864498
+e369240749.011235
+r1
+xCompileC
+xDerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TRungeKuttaIntegrator.o
+x/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TRungeKuttaIntegrator.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TRungeKuttaIntegrator.m0d70ddac2a02b641^b5df02ad2a02b641^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TRungeKuttaIntegrator.m0000000000000000^3603"CompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TRungeKuttaIntegrator.o TraerLib/src/TraerPhysics/TRungeKuttaIntegrator.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/henryk/Documents/C_Code/_frameworks/TraerLib    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-generated-files.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-own-target-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-all-target-headers.hmap -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-project-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/DerivedSources/x86_64 -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/DerivedSources -F/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug -include /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/PrecompiledHeaders/TraerLib-Prefix-bezzrhuilnoveicxjpkeasvwcjwx/TraerLib-Prefix.pch -MMD -MT dependencies -MF /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TRungeKuttaIntegrator.d --serialize-diagnostics /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TRungeKuttaIntegrator.dia -c /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TRungeKuttaIntegrator.m -o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TRungeKuttaIntegrator.o36"086930BE-E252-4DF8-B4AE-4DC627ACFBA4-
+
+CCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TSmoother.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerAnimation/TSmoother.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369240748.553795
+e369240748.606038
+r1
+xCompileC
+xDerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TSmoother.o
+x/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerAnimation/TSmoother.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerAnimation/TSmoother.m81e88dac2a02b641^d9249bac2a02b641^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerAnimation/TSmoother.m0000000000000000^3535"CompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TSmoother.o TraerLib/src/TraerAnimation/TSmoother.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/henryk/Documents/C_Code/_frameworks/TraerLib    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-generated-files.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-own-target-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-all-target-headers.hmap -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-project-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/DerivedSources/x86_64 -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/DerivedSources -F/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug -include /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/PrecompiledHeaders/TraerLib-Prefix-bezzrhuilnoveicxjpkeasvwcjwx/TraerLib-Prefix.pch -MMD -MT dependencies -MF /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TSmoother.d --serialize-diagnostics /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TSmoother.dia -c /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerAnimation/TSmoother.m -o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TSmoother.o36"A2D4FB79-D808-41C5-BA35-6D364B9ADA22-
+
+CCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TSmoother2D.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerAnimation/TSmoother2D.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369240748.607343
+e369240748.671648
+r1
+xCompileC
+xDerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TSmoother2D.o
+x/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerAnimation/TSmoother2D.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerAnimation/TSmoother2D.mba9f9bac2a02b641^b893acac2a02b641^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerAnimation/TSmoother2D.m0000000000000000^3547"CompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TSmoother2D.o TraerLib/src/TraerAnimation/TSmoother2D.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/henryk/Documents/C_Code/_frameworks/TraerLib    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-generated-files.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-own-target-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-all-target-headers.hmap -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-project-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/DerivedSources/x86_64 -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/DerivedSources -F/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug -include /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/PrecompiledHeaders/TraerLib-Prefix-bezzrhuilnoveicxjpkeasvwcjwx/TraerLib-Prefix.pch -MMD -MT dependencies -MF /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TSmoother2D.d --serialize-diagnostics /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TSmoother2D.dia -c /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerAnimation/TSmoother2D.m -o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TSmoother2D.o36"B477A588-C5B0-40CE-80F5-C1BA8620B563-
+
+CCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TSmoother3D.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerAnimation/TSmoother3D.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369240748.643372
+e369240748.754297
+r1
+xCompileC
+xDerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TSmoother3D.o
+x/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerAnimation/TSmoother3D.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerAnimation/TSmoother3D.m28eea4ac2a02b641^bd19c1ac2a02b641^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerAnimation/TSmoother3D.m0000000000000000^3547"CompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TSmoother3D.o TraerLib/src/TraerAnimation/TSmoother3D.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/henryk/Documents/C_Code/_frameworks/TraerLib    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-generated-files.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-own-target-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-all-target-headers.hmap -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-project-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/DerivedSources/x86_64 -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/DerivedSources -F/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug -include /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/PrecompiledHeaders/TraerLib-Prefix-bezzrhuilnoveicxjpkeasvwcjwx/TraerLib-Prefix.pch -MMD -MT dependencies -MF /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TSmoother3D.d --serialize-diagnostics /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TSmoother3D.dia -c /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerAnimation/TSmoother3D.m -o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TSmoother3D.o36"C6C8A0F5-587A-43B9-B4BA-EF8B147334C8-
+
+CCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TSpring.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TSpring.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369240748.890542
+e369240748.964693
+r1
+xCompileC
+xDerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TSpring.o
+x/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TSpring.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TSpring.md520e4ac2a02b641^dcd9f7ac2a02b641^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TSpring.m0000000000000000^3519"CompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TSpring.o TraerLib/src/TraerPhysics/TSpring.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/henryk/Documents/C_Code/_frameworks/TraerLib    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-generated-files.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-own-target-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-all-target-headers.hmap -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-project-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/DerivedSources/x86_64 -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/DerivedSources -F/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug -include /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/PrecompiledHeaders/TraerLib-Prefix-bezzrhuilnoveicxjpkeasvwcjwx/TraerLib-Prefix.pch -MMD -MT dependencies -MF /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TSpring.d --serialize-diagnostics /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TSpring.dia -c /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TSpring.m -o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TSpring.o36"3F36FCDE-2A45-48C7-8239-BA58272F61D2-
+
+CCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TestBouncyBalls.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/TestBouncyBalls.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369240748.216486
+e369240748.394067
+r1
+xCompileC
+xDerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TestBouncyBalls.o
+x/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/TestBouncyBalls.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/TestBouncyBalls.md28e37ac2a02b641^d6e164ac2a02b641^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/TestBouncyBalls.m0000000000000000^3553"CompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TestBouncyBalls.o TraerLib/src/Tests/TestBouncyBalls.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/henryk/Documents/C_Code/_frameworks/TraerLib    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-generated-files.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-own-target-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-all-target-headers.hmap -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-project-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/DerivedSources/x86_64 -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/DerivedSources -F/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug -include /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/PrecompiledHeaders/TraerLib-Prefix-bezzrhuilnoveicxjpkeasvwcjwx/TraerLib-Prefix.pch -MMD -MT dependencies -MF /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TestBouncyBalls.d --serialize-diagnostics /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TestBouncyBalls.dia -c /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/TestBouncyBalls.m -o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TestBouncyBalls.o36"4631CB75-72B1-4A9C-B48F-B3A1AEA131D8-
+
+CCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TestObject.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/TestObject.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369240748.219542
+e369240748.301008
+r1
+xCompileC
+xDerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TestObject.o
+x/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/TestObject.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/TestObject.m725238ac2a02b641^dc0e4dac2a02b641^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/TestObject.m0000000000000000^3523"CompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TestObject.o TraerLib/src/Tests/TestObject.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/henryk/Documents/C_Code/_frameworks/TraerLib    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-generated-files.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-own-target-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-all-target-headers.hmap -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-project-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/DerivedSources/x86_64 -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/DerivedSources -F/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug -include /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/PrecompiledHeaders/TraerLib-Prefix-bezzrhuilnoveicxjpkeasvwcjwx/TraerLib-Prefix.pch -MMD -MT dependencies -MF /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TestObject.d --serialize-diagnostics /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TestObject.dia -c /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/TestObject.m -o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TestObject.o36"1E8448A5-9F85-4A4C-9DF5-A89FB8B28B72-
+
+CCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TestSimplePendulum.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/TestSimplePendulum.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369240748.302319
+e369240748.402477
+r1
+xCompileC
+xDerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TestSimplePendulum.o
+x/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/TestSimplePendulum.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/TestSimplePendulum.m1a884dac2a02b641^ab0867ac2a02b641^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/TestSimplePendulum.m0000000000000000^3571"CompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TestSimplePendulum.o TraerLib/src/Tests/TestSimplePendulum.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/henryk/Documents/C_Code/_frameworks/TraerLib    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-generated-files.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-own-target-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-all-target-headers.hmap -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-project-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/DerivedSources/x86_64 -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/DerivedSources -F/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug -include /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/PrecompiledHeaders/TraerLib-Prefix-bezzrhuilnoveicxjpkeasvwcjwx/TraerLib-Prefix.pch -MMD -MT dependencies -MF /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TestSimplePendulum.d --serialize-diagnostics /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TestSimplePendulum.dia -c /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/TestSimplePendulum.m -o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TestSimplePendulum.o36"C145FD6C-A746-4DF2-B62E-3CA6349E68BB-
+
+CCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TestTraerAnimation.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/TestTraerAnimation.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369240748.395884
+e369240748.642084
+r1
+xCompileC
+xDerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TestTraerAnimation.o
+x/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/TestTraerAnimation.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/TestTraerAnimation.m00c766ac2a02b641^9c6ba4ac2a02b641^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/TestTraerAnimation.m0000000000000000^3571"CompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TestTraerAnimation.o TraerLib/src/Tests/TestTraerAnimation.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/henryk/Documents/C_Code/_frameworks/TraerLib    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-generated-files.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-own-target-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-all-target-headers.hmap -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-project-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/DerivedSources/x86_64 -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/DerivedSources -F/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug -include /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/PrecompiledHeaders/TraerLib-Prefix-bezzrhuilnoveicxjpkeasvwcjwx/TraerLib-Prefix.pch -MMD -MT dependencies -MF /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TestTraerAnimation.d --serialize-diagnostics /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TestTraerAnimation.dia -c /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/Tests/TestTraerAnimation.m -o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TestTraerAnimation.o36"C10EE76E-AF1A-42FD-B900-3A910806AE1A-
+
+CCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/main.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369240747.366511
+e369240747.457021
+r1
+xCompileC
+xDerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/main.o
+x/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/main.m34f25dab2a02b641^34f275ab2a02b641^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/main.m0000000000000000^3467"CompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/main.o TraerLib/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/henryk/Documents/C_Code/_frameworks/TraerLib    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-generated-files.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-own-target-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-all-target-headers.hmap -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-project-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/DerivedSources/x86_64 -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/DerivedSources -F/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug -include /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/PrecompiledHeaders/TraerLib-Prefix-bezzrhuilnoveicxjpkeasvwcjwx/TraerLib-Prefix.pch -MMD -MT dependencies -MF /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/main.dia -c /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/main.m -o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/main.o36"082C7826-E712-4431-8D0B-7D060F8B3D47-
+
+CCompileXIB /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/en.lproj/MainMenu.xib
+s369240749.115706
+e369240749.214030
+r1
+xCompileXIB
+x/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/en.lproj/MainMenu.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compiling /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/en.lproj/MainMenu.xibbcb01dad2a02b641^0ddf36ad2a02b641^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/en.lproj/MainMenu.xib0000000000000000^665"CompileXIB TraerLib/en.lproj/MainMenu.xib    cd /Users/henryk/Documents/C_Code/_frameworks/TraerLib    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/TraerLib.app/Contents/Resources/en.lproj/MainMenu.nib /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/en.lproj/MainMenu.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk36"43F7B950-9B21-4071-BEAA-A27CB0E12D31-
+
+CCopyStringsFile /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/TraerLib.app/Contents/Resources/en.lproj/InfoPlist.strings TraerLib/en.lproj/InfoPlist.strings
+s369240749.109641
+e369240749.114536
+r1
+xCopyStringsFile
+x/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/TraerLib.app/Contents/Resources/en.lproj/InfoPlist.strings
+xTraerLib/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Copy TraerLib/en.lproj/InfoPlist.stringsf6241cad2a02b641^4e611dad2a02b641^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/en.lproj/InfoPlist.strings0000000000000000^476"CopyStringsFile DerivedData/TraerLib/Build/Products/Debug/TraerLib.app/Contents/Resources/en.lproj/InfoPlist.strings TraerLib/en.lproj/InfoPlist.strings    cd /Users/henryk/Documents/C_Code/_frameworks/TraerLib    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/TraerLib.app/Contents/Resources/en.lproj -- TraerLib/en.lproj/InfoPlist.strings36"15FE2DB0-05AC-4BFC-B805-ECC66E187B45-
+
+CCpResource TraerLib/en.lproj/Credits.rtf DerivedData/TraerLib/Build/Products/Debug/TraerLib.app/Contents/Resources/en.lproj/Credits.rtf
+s369240749.110126
+e369240749.114680
+r1
+xCpResource
+xTraerLib/en.lproj/Credits.rtf
+xDerivedData/TraerLib/Build/Products/Debug/TraerLib.app/Contents/Resources/en.lproj/Credits.rtf
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Copy DerivedData/TraerLib/Build/Products/Debug/TraerLib.app/Contents/Resources/en.lproj/Credits.rtf5b401cad2a02b641^52641dad2a02b641^---0#0#0#-19%DVTDocumentLocation2@162"file://localhost/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/TraerLib.app/Contents/Resources/en.lproj/Credits.rtf000000000080d041^524"CpResource TraerLib/en.lproj/Credits.rtf DerivedData/TraerLib/Build/Products/Debug/TraerLib.app/Contents/Resources/en.lproj/Credits.rtf    cd /Users/henryk/Documents/C_Code/_frameworks/TraerLib    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/en.lproj/Credits.rtf /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/TraerLib.app/Contents/Resources/en.lproj36"C2B521B3-348F-47AB-B638-DB972B5DA375-
+
+CLd /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/TraerLib.app/Contents/MacOS/TraerLib normal x86_64
+s369240749.017652
+e369240749.101607
+r1
+xLd
+x/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/TraerLib.app/Contents/MacOS/TraerLib
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection135"Link /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/TraerLib.app/Contents/MacOS/TraerLib5aa104ad2a02b641^5b081aad2a02b641^---0#0#0#--1016"Ld DerivedData/TraerLib/Build/Products/Debug/TraerLib.app/Contents/MacOS/TraerLib normal x86_64    cd /Users/henryk/Documents/C_Code/_frameworks/TraerLib    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug -F/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug -filelist /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/Objects-normal/x86_64/TraerLib.LinkFileList -mmacosx-version-min=10.6 -fobjc-arc -fobjc-link-runtime -framework OpenGL -framework Cocoa -o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/TraerLib.app/Contents/MacOS/TraerLib36"C901AED3-352F-4146-9C31-C97DCEAA7A20-
+
+CProcessInfoPlistFile /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/TraerLib.app/Contents/Info.plist TraerLib/TraerLib-Info.plist
+s369240746.108942
+e369240746.123991
+r1
+xProcessInfoPlistFile
+x/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/TraerLib.app/Contents/Info.plist
+xTraerLib/TraerLib-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Process TraerLib/TraerLib-Info.plist28f31baa2a02b641^6ea226aa2a02b641^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/TraerLib-Info.plist0000000000000000^546"ProcessInfoPlistFile DerivedData/TraerLib/Build/Products/Debug/TraerLib.app/Contents/Info.plist TraerLib/TraerLib-Info.plist    cd /Users/henryk/Documents/C_Code/_frameworks/TraerLib    builtin-infoPlistUtility TraerLib/TraerLib-Info.plist -genpkginfo /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/TraerLib.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/TraerLib.app/Contents/Info.plist36"7814B3E8-E8D5-40E2-BC07-3EED640A01B9-
+
+CProcessPCH /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/PrecompiledHeaders/TraerLib-Prefix-bezzrhuilnoveicxjpkeasvwcjwx/TraerLib-Prefix.pch.pth TraerLib/TraerLib-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369240746.132084
+e369240747.232992
+r1
+xProcessPCH
+x/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/PrecompiledHeaders/TraerLib-Prefix-bezzrhuilnoveicxjpkeasvwcjwx/TraerLib-Prefix.pch.pth
+xTraerLib/TraerLib-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile TraerLib/TraerLib-Prefix.pchf2ed21aa2a02b641^4ca53bab2a02b641^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/TraerLib-Prefix.pch0000000000000000^3404"ProcessPCH DerivedData/TraerLib/Build/Intermediates/PrecompiledHeaders/TraerLib-Prefix-bezzrhuilnoveicxjpkeasvwcjwx/TraerLib-Prefix.pch.pth TraerLib/TraerLib-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/henryk/Documents/C_Code/_frameworks/TraerLib    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-generated-files.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-own-target-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-all-target-headers.hmap -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/TraerLib-project-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/DerivedSources/x86_64 -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Debug/TraerLib.build/DerivedSources -F/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug --serialize-diagnostics /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/PrecompiledHeaders/TraerLib-Prefix-bezzrhuilnoveicxjpkeasvwcjwx/TraerLib-Prefix.pch.dia -c /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/TraerLib-Prefix.pch -o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/PrecompiledHeaders/TraerLib-Prefix-bezzrhuilnoveicxjpkeasvwcjwx/TraerLib-Prefix.pch.pth -MMD -MT dependencies -MF /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/PrecompiledHeaders/TraerLib-Prefix-bezzrhuilnoveicxjpkeasvwcjwx/TraerLib-Prefix.pch.d36"EB514712-F8A4-4A54-924B-8722277221B5-
+
+CProcessPCH /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Index/PrecompiledHeaders/TraerLib-Prefix-cnlerrqxvkpkwpbufrogcljwxsgt_ast/TraerLib-Prefix.pch.pth TraerLib/TraerLib-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/TraerLib.app
+s369240749.222118
+e369240749.244206
+r1
+xTouch
+x/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/TraerLib.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Touch /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/TraerLib.appedef38ad2a02b641^e2933ead2a02b641^---0#0#0#--249"Touch DerivedData/TraerLib/Build/Products/Debug/TraerLib.app    cd /Users/henryk/Documents/C_Code/_frameworks/TraerLib    /usr/bin/touch -c /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Debug/TraerLib.app36"B7902F9F-15EC-4E1F-A6A8-44328B62B75E-
+

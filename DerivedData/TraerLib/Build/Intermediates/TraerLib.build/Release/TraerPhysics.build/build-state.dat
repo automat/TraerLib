@@ -1,0 +1,279 @@
+TTraerPhysics
+v5
+r1
+cCheck dependencies
+cProcessPCH /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/PrecompiledHeaders/TraerPhysics-Prefix-fuiyqkcrnzzhffebaaibpahwcsxc/TraerPhysics-Prefix.pch.pth TraerPhysics/TraerPhysics-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TRungeKuttaIntegrator.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TRungeKuttaIntegrator.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TraerPhysics.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerPhysics/TraerPhysics.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TAttraction.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TAttraction.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TEulerIntegrator.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TEulerIntegrator.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TModifiedEulerIntegrator.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TModifiedEulerIntegrator.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TParticle.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TParticle.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TParticleSystem.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TParticleSystem.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TSpring.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TSpring.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Release/libTraerPhysics.a normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c000000004FF015DA00000000000000AA
+t1341134298
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000005028E41800000000000025C8
+t1344857112
+s9672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c000000005028E41800000000000001E5
+t1344857112
+s485
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/PrecompiledHeaders/TraerPhysics-Prefix-fuiyqkcrnzzhffebaaibpahwcsxc/TraerPhysics-Prefix.pch.pth
+t2
+s0
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TAttraction.o
+t2
+s0
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TEulerIntegrator.o
+t2
+s0
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TModifiedEulerIntegrator.o
+t2
+s0
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TParticle.o
+t2
+s0
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TParticleSystem.o
+t2
+s0
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TRungeKuttaIntegrator.o
+t2
+s0
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TSpring.o
+t2
+s0
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TraerPhysics.LinkFileList
+c000000005051F2CA0000000000000573
+t1347547850
+s1395
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TraerPhysics.o
+t2
+s0
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Release/libTraerPhysics.a
+t2
+s0
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TAttraction.m
+c000000005050343E00000000000008AD
+t1347433534
+s2221
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TEulerIntegrator.m
+c00000000505195F50000000000000452
+t1347524085
+s1106
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TModifiedEulerIntegrator.m
+c00000000505196100000000000000595
+t1347524112
+s1429
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TParticle.m
+c000000005051957D000000000000051D
+t1347523965
+s1309
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TParticleSystem.m
+c0000000050509BD400000000000017A2
+t1347460052
+s6050
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TRungeKuttaIntegrator.m
+c000000005051A1120000000000004249
+t1347526930
+s16969
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TSpring.m
+c00000000505034F300000000000009C9
+t1347433715
+s2505
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerPhysics/TraerPhysics-Prefix.pch
+c000000005051F249000000000000009B
+t1347547721
+s155
+i<Cocoa/Cocoa.h>
+
+N/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerPhysics/TraerPhysics.m
+c000000005051F24A00000000000000C2
+t1347547722
+s194
+
+CBuild AST from /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TAttraction.m
+r0
+
+CBuild AST from /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TEulerIntegrator.m
+r0
+
+CBuild AST from /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TModifiedEulerIntegrator.m
+r0
+
+CBuild AST from /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TParticle.m
+r0
+
+CBuild AST from /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TParticleSystem.m
+r0
+
+CBuild AST from /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TRungeKuttaIntegrator.m
+r0
+
+CBuild AST from /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TSpring.m
+r0
+
+CBuild AST from /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerPhysics/TraerPhysics.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies60e65b4a2a02b641^79ac694a2a02b641^---0#1#0#--18"Check dependencies36"0D7C47E9-5DC3-44E6-8355-3E7A0FAD0F0B-
+
+CCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TAttraction.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TAttraction.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369240654.283022
+e369240654.372437
+r1
+xCompileC
+xDerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TAttraction.o
+x/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TAttraction.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TAttraction.mee96484e2a02b641^e6575f4e2a02b641^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TAttraction.m0000000000000000^3621"CompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TAttraction.o TraerLib/src/TraerPhysics/TAttraction.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/henryk/Documents/C_Code/_frameworks/TraerLib    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/TraerPhysics-generated-files.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/TraerPhysics-own-target-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/TraerPhysics-all-target-headers.hmap -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/TraerPhysics-project-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/DerivedSources/x86_64 -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/DerivedSources -F/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Release -include /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/PrecompiledHeaders/TraerPhysics-Prefix-fuiyqkcrnzzhffebaaibpahwcsxc/TraerPhysics-Prefix.pch -MMD -MT dependencies -MF /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TAttraction.d --serialize-diagnostics /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TAttraction.dia -c /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TAttraction.m -o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TAttraction.o36"94220E57-7E83-425B-B877-8489A5968D1A-
+
+CCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TEulerIntegrator.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TEulerIntegrator.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369240654.373757
+e369240654.463731
+r1
+xCompileC
+xDerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TEulerIntegrator.o
+x/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TEulerIntegrator.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TEulerIntegrator.mddd15f4e2a02b641^35b7764e2a02b641^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TEulerIntegrator.m0000000000000000^3651"CompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TEulerIntegrator.o TraerLib/src/TraerPhysics/TEulerIntegrator.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/henryk/Documents/C_Code/_frameworks/TraerLib    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/TraerPhysics-generated-files.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/TraerPhysics-own-target-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/TraerPhysics-all-target-headers.hmap -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/TraerPhysics-project-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/DerivedSources/x86_64 -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/DerivedSources -F/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Release -include /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/PrecompiledHeaders/TraerPhysics-Prefix-fuiyqkcrnzzhffebaaibpahwcsxc/TraerPhysics-Prefix.pch -MMD -MT dependencies -MF /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TEulerIntegrator.d --serialize-diagnostics /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TEulerIntegrator.dia -c /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TEulerIntegrator.m -o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TEulerIntegrator.o36"50E320AB-3251-4043-A9E7-39737649E7DD-
+
+CCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TModifiedEulerIntegrator.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TModifiedEulerIntegrator.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369240654.465034
+e369240654.545284
+r1
+xCompileC
+xDerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TModifiedEulerIntegrator.o
+x/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TModifiedEulerIntegrator.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compile /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TModifiedEulerIntegrator.m662f774e2a02b641^ab978b4e2a02b641^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TModifiedEulerIntegrator.m0000000000000000^3699"CompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TModifiedEulerIntegrator.o TraerLib/src/TraerPhysics/TModifiedEulerIntegrator.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/henryk/Documents/C_Code/_frameworks/TraerLib    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/TraerPhysics-generated-files.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/TraerPhysics-own-target-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/TraerPhysics-all-target-headers.hmap -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/TraerPhysics-project-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/DerivedSources/x86_64 -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/DerivedSources -F/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Release -include /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/PrecompiledHeaders/TraerPhysics-Prefix-fuiyqkcrnzzhffebaaibpahwcsxc/TraerPhysics-Prefix.pch -MMD -MT dependencies -MF /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TModifiedEulerIntegrator.d --serialize-diagnostics /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TModifiedEulerIntegrator.dia -c /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TModifiedEulerIntegrator.m -o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TModifiedEulerIntegrator.o36"CAEF1653-3CB1-4CA9-BFC2-38F25022C2F6-
+
+CCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TParticle.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TParticle.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369240654.546619
+e369240654.711431
+r1
+xCompileC
+xDerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TParticle.o
+x/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TParticle.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TParticle.m0a118c4e2a02b641^2fa4b74e2a02b641^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TParticle.m0000000000000000^3609"CompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TParticle.o TraerLib/src/TraerPhysics/TParticle.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/henryk/Documents/C_Code/_frameworks/TraerLib    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/TraerPhysics-generated-files.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/TraerPhysics-own-target-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/TraerPhysics-all-target-headers.hmap -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/TraerPhysics-project-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/DerivedSources/x86_64 -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/DerivedSources -F/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Release -include /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/PrecompiledHeaders/TraerPhysics-Prefix-fuiyqkcrnzzhffebaaibpahwcsxc/TraerPhysics-Prefix.pch -MMD -MT dependencies -MF /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TParticle.d --serialize-diagnostics /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TParticle.dia -c /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TParticle.m -o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TParticle.o36"0E9C5FA8-5715-4BCC-839C-FA52A04A3DF6-
+
+CCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TParticleSystem.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TParticleSystem.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369240654.611398
+e369240655.072849
+r1
+xCompileC
+xDerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TParticleSystem.o
+x/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TParticleSystem.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TParticleSystem.m1ea79c4e2a02b641^3ba6124f2a02b641^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TParticleSystem.m0000000000000000^3645"CompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TParticleSystem.o TraerLib/src/TraerPhysics/TParticleSystem.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/henryk/Documents/C_Code/_frameworks/TraerLib    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/TraerPhysics-generated-files.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/TraerPhysics-own-target-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/TraerPhysics-all-target-headers.hmap -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/TraerPhysics-project-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/DerivedSources/x86_64 -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/DerivedSources -F/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Release -include /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/PrecompiledHeaders/TraerPhysics-Prefix-fuiyqkcrnzzhffebaaibpahwcsxc/TraerPhysics-Prefix.pch -MMD -MT dependencies -MF /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TParticleSystem.d --serialize-diagnostics /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TParticleSystem.dia -c /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TParticleSystem.m -o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TParticleSystem.o36"743B0C5A-039C-4A7C-B621-08917A2BB18C-
+
+CCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TRungeKuttaIntegrator.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TRungeKuttaIntegrator.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369240654.058864
+e369240654.610090
+r1
+xCompileC
+xDerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TRungeKuttaIntegrator.o
+x/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TRungeKuttaIntegrator.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TRungeKuttaIntegrator.m61380f4e2a02b641^0e2f9c4e2a02b641^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TRungeKuttaIntegrator.m0000000000000000^3681"CompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TRungeKuttaIntegrator.o TraerLib/src/TraerPhysics/TRungeKuttaIntegrator.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/henryk/Documents/C_Code/_frameworks/TraerLib    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/TraerPhysics-generated-files.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/TraerPhysics-own-target-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/TraerPhysics-all-target-headers.hmap -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/TraerPhysics-project-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/DerivedSources/x86_64 -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/DerivedSources -F/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Release -include /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/PrecompiledHeaders/TraerPhysics-Prefix-fuiyqkcrnzzhffebaaibpahwcsxc/TraerPhysics-Prefix.pch -MMD -MT dependencies -MF /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TRungeKuttaIntegrator.d --serialize-diagnostics /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TRungeKuttaIntegrator.dia -c /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TRungeKuttaIntegrator.m -o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TRungeKuttaIntegrator.o36"7C3667E5-9FF5-4978-B52B-A2EAD4D88D7F-
+
+CCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TSpring.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TSpring.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369240654.755282
+e369240655.078027
+r1
+xCompileC
+xDerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TSpring.o
+x/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TSpring.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TSpring.m77dccc4e2a02b641^7236154f2a02b641^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TSpring.m0000000000000000^3597"CompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TSpring.o TraerLib/src/TraerPhysics/TSpring.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/henryk/Documents/C_Code/_frameworks/TraerLib    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/TraerPhysics-generated-files.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/TraerPhysics-own-target-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/TraerPhysics-all-target-headers.hmap -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/TraerPhysics-project-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/DerivedSources/x86_64 -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/DerivedSources -F/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Release -include /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/PrecompiledHeaders/TraerPhysics-Prefix-fuiyqkcrnzzhffebaaibpahwcsxc/TraerPhysics-Prefix.pch -MMD -MT dependencies -MF /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TSpring.d --serialize-diagnostics /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TSpring.dia -c /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerLib/src/TraerPhysics/TSpring.m -o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TSpring.o36"9147EB09-1146-4BBC-A709-ED087990793B-
+
+CCompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TraerPhysics.o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerPhysics/TraerPhysics.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369240654.236982
+e369240654.281772
+r1
+xCompileC
+xDerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TraerPhysics.o
+x/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerPhysics/TraerPhysics.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerPhysics/TraerPhysics.m29cf3c4e2a02b641^0535484e2a02b641^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerPhysics/TraerPhysics.m0000000000000000^3601"CompileC DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TraerPhysics.o TraerPhysics/TraerPhysics.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/henryk/Documents/C_Code/_frameworks/TraerLib    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/TraerPhysics-generated-files.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/TraerPhysics-own-target-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/TraerPhysics-all-target-headers.hmap -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/TraerPhysics-project-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/DerivedSources/x86_64 -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/DerivedSources -F/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Release -include /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/PrecompiledHeaders/TraerPhysics-Prefix-fuiyqkcrnzzhffebaaibpahwcsxc/TraerPhysics-Prefix.pch -MMD -MT dependencies -MF /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TraerPhysics.d --serialize-diagnostics /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TraerPhysics.dia -c /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerPhysics/TraerPhysics.m -o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TraerPhysics.o36"17333754-6D0E-4719-9678-5274940B5F00-
+
+CLibtool /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Release/libTraerPhysics.a normal x86_64
+s369240655.084173
+e369240655.152734
+r1
+xLibtool
+x/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Release/libTraerPhysics.a
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Libtool DerivedData/TraerLib/Build/Products/Release/libTraerPhysics.a normal x86_64f1a0154f2a02b641^4b22274f2a02b641^---0#0#0#--845"Libtool DerivedData/TraerLib/Build/Products/Release/libTraerPhysics.a normal x86_64    cd /Users/henryk/Documents/C_Code/_frameworks/TraerLib    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only x86_64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Release -filelist /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/Objects-normal/x86_64/TraerPhysics.LinkFileList -framework Cocoa -o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Release/libTraerPhysics.a36"3CD999FE-CD0E-41AA-9B1C-E8F188D6346A-
+
+CProcessPCH /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/PrecompiledHeaders/TraerPhysics-Prefix-fuiyqkcrnzzhffebaaibpahwcsxc/TraerPhysics-Prefix.pch.pth TraerPhysics/TraerPhysics-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369240652.426831
+e369240654.052279
+r1
+xProcessPCH
+x/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/PrecompiledHeaders/TraerPhysics-Prefix-fuiyqkcrnzzhffebaaibpahwcsxc/TraerPhysics-Prefix.pch.pth
+xTraerPhysics/TraerPhysics-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile TraerPhysics/TraerPhysics-Prefix.pch99676d4c2a02b641^b3610d4e2a02b641^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerPhysics/TraerPhysics-Prefix.pch0000000000000000^3498"ProcessPCH DerivedData/TraerLib/Build/Intermediates/PrecompiledHeaders/TraerPhysics-Prefix-fuiyqkcrnzzhffebaaibpahwcsxc/TraerPhysics-Prefix.pch.pth TraerPhysics/TraerPhysics-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/henryk/Documents/C_Code/_frameworks/TraerLib    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/TraerPhysics-generated-files.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/TraerPhysics-own-target-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/TraerPhysics-all-target-headers.hmap -iquote /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/TraerPhysics-project-headers.hmap -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/DerivedSources/x86_64 -I/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/TraerLib.build/Release/TraerPhysics.build/DerivedSources -F/Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Products/Release --serialize-diagnostics /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/PrecompiledHeaders/TraerPhysics-Prefix-fuiyqkcrnzzhffebaaibpahwcsxc/TraerPhysics-Prefix.pch.dia -c /Users/henryk/Documents/C_Code/_frameworks/TraerLib/TraerPhysics/TraerPhysics-Prefix.pch -o /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/PrecompiledHeaders/TraerPhysics-Prefix-fuiyqkcrnzzhffebaaibpahwcsxc/TraerPhysics-Prefix.pch.pth -MMD -MT dependencies -MF /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Build/Intermediates/PrecompiledHeaders/TraerPhysics-Prefix-fuiyqkcrnzzhffebaaibpahwcsxc/TraerPhysics-Prefix.pch.d36"BE5C0DD0-CE88-4268-BF65-557AD0F07335-
+
+CProcessPCH /Users/henryk/Documents/C_Code/_frameworks/TraerLib/DerivedData/TraerLib/Index/PrecompiledHeaders/TraerPhysics-Prefix-gikqyhmhvgspvdfwjzzprglajpbd_ast/TraerPhysics-Prefix.pch.pth TraerPhysics/TraerPhysics-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
